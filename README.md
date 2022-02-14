@@ -31,6 +31,8 @@
 [Linguagem C# (Danilo Aparecido - Torne-se um programador)](https://www.youtube.com/playlist?list=PLEdPHGYbHhlcxWx-_LrVVYZ2RRdqltums)
 
 ## Sites:
-[TIM Tec](https://cursos.timtec.com.br/courses)
+[TIM Tec](https://cursos.timtec.com.br/courses) 
+
 [Digital Innovation One](https://www.dio.me/)
+
 [Allan Brito - Animação 3d , modelagem e multimídia](https://eadallanbrito.com/cursos-gratuitos/)
