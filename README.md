@@ -32,7 +32,7 @@
 
 ## Sites:
 ### TIM Tec
-[HTML5 - Introdução ao front-end]](https://cursos.timtec.com.br/course/html5/intro) 
+[HTML5 - Introdução ao front-end](https://cursos.timtec.com.br/course/html5/intro) 
 
 [Introdução à lógica de programação](https://cursos.timtec.com.br/course/logicadeprogramacao/intro)
 
