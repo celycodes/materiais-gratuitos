@@ -31,7 +31,14 @@
 [Linguagem C# (Danilo Aparecido - Torne-se um programador)](https://www.youtube.com/playlist?list=PLEdPHGYbHhlcxWx-_LrVVYZ2RRdqltums)
 
 ## Sites:
-[TIM Tec](https://cursos.timtec.com.br/courses) 
+### TIM Tec
+[HTML5 - Introdução ao front-end]](https://cursos.timtec.com.br/course/html5/intro) 
+
+[Introdução à lógica de programação](https://cursos.timtec.com.br/course/logicadeprogramacao/intro)
+
+[Introdução à linguagem de programação PHP](https://cursos.timtec.com.br/course/introphp/intro)
+
+[Introdução ao uso de banco de dados e SQL](https://cursos.timtec.com.br/course/introbd/intro)
 
 [Digital Innovation One](https://www.dio.me/)
 
