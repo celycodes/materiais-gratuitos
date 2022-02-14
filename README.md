@@ -1,4 +1,6 @@
-# cursos-gratuitos
+# Cursos Gratuitos
+
+## YouTube:
 
 [Curso de Python (Otávio Miranda)](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0ayQsrhEf-7-8JAj-MwmPr)
 
