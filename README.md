@@ -52,10 +52,10 @@
 
 ### Allan Brito - Animação 3d , modelagem e multimídia
 
-[Curso de Python Básico](https://eadallanbrito.com/curso/python-basico/)
+- [Curso de Python Básico](https://eadallanbrito.com/curso/python-basico/)
 
-[Curso sobre Unity 3D Básico](https://eadallanbrito.com/curso/curso-basico-de-unity-3d/)
+- [Curso sobre Unity 3D Básico](https://eadallanbrito.com/curso/curso-basico-de-unity-3d/)
 
-[Curso básico sobre a Unreal Engine](https://eadallanbrito.com/curso/unreal-engine-basico/)
+- [Curso básico sobre a Unreal Engine](https://eadallanbrito.com/curso/unreal-engine-basico/)
 
-[Curso básico de Adobe Edge – Animação com HTML5](https://eadallanbrito.com/curso/edge-basico-animacao-com-html5/)
+- [Curso básico de Adobe Edge – Animação com HTML5](https://eadallanbrito.com/curso/edge-basico-animacao-com-html5/)
