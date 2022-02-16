@@ -2,7 +2,15 @@
 
 ## YouTube:
 
+- [Curso de Node.js (DFILITTO)](https://www.youtube.com/playlist?list=PLfvOpw8k80WrD3avsqr5LVzjq0Zoo5yQW)
+
 - [Curso de Python (Otávio Miranda)](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0ayQsrhEf-7-8JAj-MwmPr)
+
+- [Curso de HTML5 (Curso em vídeo)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
+
+- [Curso de Bootstrap (Hora de Codar)](https://www.youtube.com/playlist?list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze)
+
+- [Curso de JavaScript (Hora de Codar)](https://www.youtube.com/playlist?list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6)
 
 - [Curso de Programação C# (CFBCursos)](https://www.youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi)
 
