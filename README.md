@@ -41,6 +41,9 @@
 ## Sites:
 
 ### TIM Tec
+
+- [UX e UI Design](https://cursos.timtec.com.br/course/ux-e-ui-design/intro)
+
 - [HTML5 - Introdução ao front-end](https://cursos.timtec.com.br/course/html5/intro) 
 
 - [Introdução à lógica de programação](https://cursos.timtec.com.br/course/logicadeprogramacao/intro)
