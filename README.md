@@ -26,7 +26,7 @@
 
 - [Curso prático Git e Github (Professor José de Assis)](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
 
-- [HTML e CSS GRÁTIS para iniciantes (Chief of Design)](https://www.youtube.com/playlist?list=PLwgL9IEA0PxUjbhob9UMdpVq12sGrjgU6)
+- [HTML e CSS grátis para iniciantes (Chief of Design)](https://www.youtube.com/playlist?list=PLwgL9IEA0PxUjbhob9UMdpVq12sGrjgU6)
 
 - [TypeScript para Desenvolvedores C# (Glaucia Lemos)](https://www.youtube.com/playlist?list=PLb2HQ45KP0Wt32eCnju3lyncXUvDV5Nob)
 
