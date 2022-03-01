@@ -6,7 +6,7 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
 
 ## Como contribuir:
 
-- Verifique se o curso é em Português 🇧🇷 ou tem legenda
+- Verifique se o curso é em Português 🇧🇷
 
 - É necessário assegurar-se que o conteúdo está totalmente gratuito e livre (sem plágio ou conteúdo ilícito);   
 
