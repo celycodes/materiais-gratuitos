@@ -14,7 +14,7 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
 
         - [Nome do material](link do material) (pessoa que criou o material)
 
-- Caso queira sinalizar que a dica foi sua, coloque desse jeito:
+- Caso queira indicar que a dica foi sua, coloque desse jeito:
             
         - [Nome do material](link do material) (pessoa que criou o material) (Dica de [Seu nome](Link do seu GitHub))
             
