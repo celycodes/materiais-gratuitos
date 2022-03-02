@@ -18,6 +18,6 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
             
         - [Nome do material](link do material) (pessoa que criou o material) (Dica de [Seu nome](Link do seu GitHub))
             
-- Caso tiver alguma dúvida você pode abrir uma issue ou mandar uma DM para mim, clicando [aqui](https://twitter.com/ceIenny).   
+- Caso tiver alguma dúvida você pode abrir uma issue ou mandar uma DM para mim, clicando [aqui](https://www.instagram.com/celycodes/).   
 
 ### Bons Estudos <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
