@@ -18,6 +18,13 @@
 
 - [Mais cursos](https://cursos.timtec.com.br/courses)
 
+### Curso em Video
+- [Algoritmo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
+- [JavaScript](https://www.cursoemvideo.com/curso/javascript/)
+- [Git e Github](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
+- [Bases Numéricas](https://www.cursoemvideo.com/curso/bases-numericas/)
+- [Mais cursos](https://www.cursoemvideo.com/cursos/)
+
 ### Digital Innovation One
 - [PHP](https://web.dio.me/browse?editorial=d10d579c-c6e9-481b-90d5-a07f2d657594&page=1) 
 - [Java](https://web.dio.me/browse?editorial=94c5f9d6-e774-4a4c-b19f-38ff2dbb5f40&page=1) 
