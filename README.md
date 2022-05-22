@@ -6,9 +6,11 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
 
 - Verifique se o curso que você deseja adicionar é em Português 🇧🇷;
 
-- É necessário assegurar-se que o conteúdo está totalmente gratuito e livre (sem plágio ou conteúdo ilícito);   
+- É necessário assegurar-se que o conteúdo está totalmente gratuito e livre (sem plágio ou conteúdo ilícito);     
 
-- Os PR's serão revisados antes de serem adicionados;  
+- Caso o arquivo da tecnologia que você deseja adicionar o curso não esteja na pasta, sinta-se à vontade para criar um arquivo .md;
+
+- Os PR's serão revisados antes de serem adicionados;
 
 - Como adicionar um novo material:
 
