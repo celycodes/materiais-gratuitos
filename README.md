@@ -10,7 +10,7 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
 
 - Caso o arquivo da tecnologia que você deseja adicionar o curso não esteja na pasta, sinta-se à vontade para criar um arquivo .md;
 
-- Os PR's serão revisados antes de serem adicionados;
+- Todos os PR's serão revisados antes de serem adicionados;
 
 - Como adicionar um novo material:
 
