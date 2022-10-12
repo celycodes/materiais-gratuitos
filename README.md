@@ -25,3 +25,45 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
 - Caso tiver alguma dúvida você pode abrir uma issue ou mandar uma DM para mim, clicando [aqui](https://www.instagram.com/celycodes/).   
 
 ### 💻 Bons Estudos 📚
+
+
+
+## 💜 Contribuidores 💜
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/celenny" width="100px;" alt="Foto da Celenny"/><br>
+        <sub>
+          <b>Celenny Cristhyne</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/fhilipecrash" width="100px;" alt="Foto da Fhilipe Coelho"/><br>
+        <sub>
+          <b>Fhilipe Coelho</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars0.githubusercontent.com/Juniokoi" width="100px;" alt="Foto da Junio Koi"/><br>
+        <sub>
+          <b>Junio Koi</b>
+        </sub>
+      </a>
+    </td>
+     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Marcosschwaab" width="100px;" alt="Foto da Marcos Schwaab"/><br>
+        <sub>
+          <b>Marcos Schwaab</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
