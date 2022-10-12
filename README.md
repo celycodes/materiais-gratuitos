@@ -12,6 +12,8 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
 
 - Todos os PR's serão revisados antes de serem adicionados;
 
+- Por ultimo mais não menos importante *Deixe uma estrela nesse repositorio (Star) ⭐*;
+
 - Como adicionar um novo material:
 
         - [Nome do material](link do material) (pessoa que criou o material)
@@ -22,4 +24,4 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
             
 - Caso tiver alguma dúvida você pode abrir uma issue ou mandar uma DM para mim, clicando [aqui](https://www.instagram.com/celycodes/).   
 
-### Bons Estudos 
+### 💻 Bons Estudos 📚
