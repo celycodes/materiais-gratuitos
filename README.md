@@ -12,6 +12,8 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
 
 - Todos os PR's serão revisados antes de serem adicionados;
 
+- Por ultimo mais não menos importante *Deixe uma estrela nesse repositorio (Star) ⭐*;
+
 - Como adicionar um novo material:
 
         - [Nome do material](link do material) (pessoa que criou o material)
@@ -22,4 +24,62 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
             
 - Caso tiver alguma dúvida você pode abrir uma issue ou mandar uma DM para mim, clicando [aqui](https://www.instagram.com/celycodes/).   
 
-### Bons Estudos 
+### 💻 Bons Estudos 📚
+
+
+
+## 💜 Contribuidores 💜
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/celenny" width="100px;" alt="Foto de Celenny"/><br>
+        <sub>
+          <b>Celenny Cristhyne</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/fhilipecrash" width="100px;" alt="Foto de Fhilipe Coelho"/><br>
+        <sub>
+          <b>Fhilipe Coelho</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars0.githubusercontent.com/Juniokoi" width="100px;" alt="Foto de Junio Koi"/><br>
+        <sub>
+          <b>Junio Koi</b>
+        </sub>
+      </a>
+    </td>
+     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Marcosschwaab" width="100px;" alt="Foto de Marcos Schwaab"/><br>
+        <sub>
+          <b>Marcos Schwaab</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Fernanda-Dantas" width="100px;" alt="Foto de Fernanda-Dantas"/><br>
+        <sub>
+          <b>Fernanda Dantas</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/sanaderer" width="100px;" alt="Foto de Sabrina Naderer"/><br>
+        <sub>
+          <b>Sabrina Naderer</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
