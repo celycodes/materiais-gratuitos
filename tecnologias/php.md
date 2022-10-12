@@ -9,3 +9,5 @@
 - [Curso de PHP Orientados a Objetos (Node Studio Treinamentos)](https://www.youtube.com/watch?v=hzy_P_H-1CQ&list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I) (Dica de [fhilipe](https://github.com/fhilipecrash))
 
 - [Curso de Laravel (Node Studio Treinamentos)](https://www.youtube.com/watch?v=SnOlhaJTMTA&list=PLwXQLZ3FdTVH5Tb57_-ll_r0VhNz9RrXb) (Dica de [fhilipe](https://github.com/fhilipecrash))
+
+- [Curso de PHP do Básico ao Intermediário (Gunnar Correa)](https://www.udemy.com/course/php-do-basico-ao-intermediario/) (Dica de [Sabrina](https://github.com/sanaderer))
