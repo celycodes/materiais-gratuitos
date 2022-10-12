@@ -34,7 +34,7 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/celenny" width="100px;" alt="Foto da Celenny"/><br>
+        <img src="https://avatars.githubusercontent.com/celenny" width="100px;" alt="Foto de Celenny"/><br>
         <sub>
           <b>Celenny Cristhyne</b>
         </sub>
@@ -42,7 +42,7 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars1.githubusercontent.com/fhilipecrash" width="100px;" alt="Foto da Fhilipe Coelho"/><br>
+        <img src="https://avatars1.githubusercontent.com/fhilipecrash" width="100px;" alt="Foto de Fhilipe Coelho"/><br>
         <sub>
           <b>Fhilipe Coelho</b>
         </sub>
@@ -50,7 +50,7 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars0.githubusercontent.com/Juniokoi" width="100px;" alt="Foto da Junio Koi"/><br>
+        <img src="https://avatars0.githubusercontent.com/Juniokoi" width="100px;" alt="Foto de Junio Koi"/><br>
         <sub>
           <b>Junio Koi</b>
         </sub>
@@ -59,9 +59,25 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
      </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars1.githubusercontent.com/Marcosschwaab" width="100px;" alt="Foto da Marcos Schwaab"/><br>
+        <img src="https://avatars1.githubusercontent.com/Marcosschwaab" width="100px;" alt="Foto de Marcos Schwaab"/><br>
         <sub>
           <b>Marcos Schwaab</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Fernanda-Dantas" width="100px;" alt="Foto de Fernanda-Dantas"/><br>
+        <sub>
+          <b>Fernanda Dantas</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/sanaderer" width="100px;" alt="Foto de Sabrina Naderer"/><br>
+        <sub>
+          <b>Sabrina Naderer</b>
         </sub>
       </a>
     </td>
