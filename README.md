@@ -34,7 +34,7 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/celenny" width="100px;" alt="Foto de Celenny"/><br>
+        <img src="https://avatars.githubusercontent.com/u/32400141?v=4" width="100px;" alt="Foto de Celenny"/><br>
         <sub>
           <b>Celenny Cristhyne</b>
         </sub>
@@ -78,6 +78,14 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
         <img src="https://avatars1.githubusercontent.com/sanaderer" width="100px;" alt="Foto de Sabrina Naderer"/><br>
         <sub>
           <b>Sabrina Naderer</b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/32400141?s=400&u=14563a3d4a782c058842dfdcbf7da385732f839a&v=4" width="100px;" alt="Foto de Bia Alice"/><br>
+        <sub>
+          <b>Bia Alice</b>
         </sub>
       </a>
     </td>
