@@ -1,4 +1,4 @@
-# Cursos disponibilizados em sites:
+﻿# Cursos disponibilizados em sites:
 
 - [TIM Tec](https://cursos.timtec.com.br/courses)
 
@@ -9,3 +9,5 @@
 - [Allan Brito - Animação 3d , modelagem e multimídia](https://eadallanbrito.com/cursos-gratuitos/)
 
 - [Loiane Training](https://loiane.training/)
+
+- [Devaria](https://www.devaria.com.br/)
