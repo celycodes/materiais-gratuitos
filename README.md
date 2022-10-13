@@ -22,7 +22,9 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
             
         - [Nome do material](link do material) (pessoa que criou o material) (Dica de [Seu nome](Link do seu GitHub))
             
-- Caso tiver alguma dúvida você pode abrir uma issue ou mandar uma DM para mim, clicando [aqui](https://www.instagram.com/celycodes/).   
+- Caso tiver alguma dúvida você pode abrir uma issue ou mandar uma DM para mim, clicando [aqui](https://www.instagram.com/celycodes/). 
+
+- Depois que o seu PR for aceito sua fotinha ficará exposta no nosso mural de contribuidores.
 
 ### 💻 Bons Estudos 📚
 
