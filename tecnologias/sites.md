@@ -7,3 +7,5 @@
 - [Digital Inovation One](https://www.dio.me)
 
 - [Allan Brito - Animação 3d , modelagem e multimídia](https://eadallanbrito.com/cursos-gratuitos/)
+
+- [Loiane Training](https://loiane.training/)
