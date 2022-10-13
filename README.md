@@ -92,4 +92,14 @@ Criei esse repositório com o objetivo de reunir alguns links de meteriais para 
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/karontyy" width="100px;" alt="Foto de Guilherme Berson"/><br>
+        <sub>
+          <b>Guilherme Berson</b>
+        </sub>
+      </a>
+    </td>    
+  </tr>
 </table>
