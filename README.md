@@ -87,7 +87,7 @@ Criei esse repositório com o objetivo de reunir alguns links de meteriais para 
       <a href="#">
         <img src="https://avatars1.githubusercontent.com/luizmineiro" width="100px;" alt="Foto de João Luiz Mineiro"/><br>
         <sub>
-          <b>João Luiz Mineiro</b>
+          <b>João Luiz</b>
         </sub>
       </a>
     </td>
