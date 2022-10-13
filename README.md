@@ -38,7 +38,7 @@ Criei esse repositório com o objetivo de reunir alguns links de meteriais para 
       <a href="#">
         <img src="https://avatars.githubusercontent.com/celenny" width="100px;" alt="Foto de Celenny"/><br>
         <sub>
-          <b>Celenny Cristhyne</b>
+          <b>Celenny</b>
         </sub>
       </a>
     </td>
