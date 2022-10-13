@@ -90,7 +90,9 @@ Criei esse repositório com o objetivo de reunir alguns links de meteriais para 
           <b>João Luiz</b>
         </sub>
       </a>
-    </td><br>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="#">
         <img src="https://avatars1.githubusercontent.com/karontyy" width="100px;" alt="Foto de Guilherme Berson"/><br>
@@ -98,6 +100,6 @@ Criei esse repositório com o objetivo de reunir alguns links de meteriais para 
           <b>Guilherme Berson</b>
         </sub>
       </a>
-    </td>
+    </td>    
   </tr>
 </table>
