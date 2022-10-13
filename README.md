@@ -6,9 +6,13 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
 
 - Verifique se o curso que você deseja adicionar é em Português 🇧🇷;
 
-- É necessário assegurar-se que o conteúdo está totalmente gratuito e livre (sem plágio ou conteúdo ilícito);   
+- É necessário assegurar-se que o conteúdo está totalmente gratuito e livre (sem plágio ou conteúdo ilícito);     
 
-- Os PR's serão revisados antes de serem adicionados;  
+- Caso o arquivo da tecnologia que você deseja adicionar o curso não esteja na pasta, sinta-se à vontade para criar um arquivo .md;
+
+- Todos os PR's serão revisados antes de serem adicionados;
+
+- Por ultimo mais não menos importante *Deixe uma estrela nesse repositorio (Star) ⭐*;
 
 - Como adicionar um novo material:
 
@@ -20,4 +24,70 @@ Criei esse repositório com o objetivo de reunir alguns links de cursos para aju
             
 - Caso tiver alguma dúvida você pode abrir uma issue ou mandar uma DM para mim, clicando [aqui](https://www.instagram.com/celycodes/).   
 
-### Bons Estudos <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+### 💻 Bons Estudos 📚
+
+
+
+## 💜 Contribuidores 💜
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/celenny" width="100px;" alt="Foto de Celenny"/><br>
+        <sub>
+          <b>Celenny Cristhyne</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/fhilipecrash" width="100px;" alt="Foto de Fhilipe Coelho"/><br>
+        <sub>
+          <b>Fhilipe Coelho</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars0.githubusercontent.com/Juniokoi" width="100px;" alt="Foto de Junio Koi"/><br>
+        <sub>
+          <b>Junio Koi</b>
+        </sub>
+      </a>
+    </td>
+     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Marcosschwaab" width="100px;" alt="Foto de Marcos Schwaab"/><br>
+        <sub>
+          <b>Marcos Schwaab</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Fernanda-Dantas" width="100px;" alt="Foto de Fernanda-Dantas"/><br>
+        <sub>
+          <b>Fernanda Dantas</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/sanaderer" width="100px;" alt="Foto de Sabrina Naderer"/><br>
+        <sub>
+          <b>Sabrina Naderer</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/luizmineiro" width="100px;" alt="Foto de João Luiz Mineiro"/><br>
+        <sub>
+          <b>João Luiz Mineiro</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
