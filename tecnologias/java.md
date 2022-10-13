@@ -12,3 +12,7 @@
 [Java Basico](https://loiane.training/curso/java-basico) (Dica de [karontyy](https://github.com/karontyy))
 
 [Java Intermediário](https://loiane.training/curso/java-intermediario) (Dica de [karontyy](https://github.com/karontyy))
+
+[Maratona Java "Virado no Jiraya" (DevDojo)](https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&ab_channel=DevDojo)
+
+[Curso de Java Iniciante (RLSystem)](https://www.rlsystem.com.br/curso-java-gratis/)
