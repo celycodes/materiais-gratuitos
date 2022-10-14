@@ -1,4 +1,4 @@
-﻿![cursos-gratuitos](https://user-images.githubusercontent.com/70456452/154167100-871c60ac-6bd7-48bf-ac74-297e3e8b81c7.png)
+![cursos-gratuitos](https://user-images.githubusercontent.com/70456452/154167100-871c60ac-6bd7-48bf-ac74-297e3e8b81c7.png)
 
 Criei esse repositório com o objetivo de reunir alguns links de materiais para ajudar a galera que está iniciando. A ideia é reunir materiais disponibilizados de forma gratuita e em pt-br 🇧🇷.
 
@@ -100,6 +100,22 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
           <b>Guilherme Berson</b>
         </sub>
       </a>
-    </td>    
+    </td>  
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/juliatessler" width="100px;" alt="Foto de Júlia Tessler"/><br>
+        <sub>
+          <b>Júlia Tessler</b>
+        </sub>
+      </a>
+    </td>
+  <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/maikella" width="100px;" alt="Foto de Maycon Mendes"/><br>
+        <sub>
+          <b>Maycon Mendes</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
