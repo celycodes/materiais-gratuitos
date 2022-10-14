@@ -9,3 +9,5 @@
 - [HTML5 - Introdução ao front-end (TimTec) ](https://cursos.timtec.com.br/course/html5/intro) (Dica de [celenny](https://github.com/celenny))
 
 - [HTML & CSS (Digital Innovation One)](https://web.dio.me/browse?editorial=38caf766-986c-430c-94f6-1d8e4704fade&page=1) (Dica de [celenny](https://github.com/celenny))
+
+- [🐺 CSS Grid Layout - Curso Completo (Origamid)](https://www.youtube.com/watch?v=hKXOVD2Yrj8&t=9384s) (Dica de [Lindsay Ferreira](https://github.com/linferreira)
