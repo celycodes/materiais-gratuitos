@@ -1,6 +1,6 @@
-![cursos-gratuitos](https://user-images.githubusercontent.com/70456452/154167100-871c60ac-6bd7-48bf-ac74-297e3e8b81c7.png)
+﻿![cursos-gratuitos](https://user-images.githubusercontent.com/70456452/154167100-871c60ac-6bd7-48bf-ac74-297e3e8b81c7.png)
 
-Criei esse repositório com o objetivo de reunir alguns links de meteriais para ajudar a galera que está iniciando. A ideia é reunir materiais disponibilizados de forma gratuita e em pt-br 🇧🇷.
+Criei esse repositório com o objetivo de reunir alguns links de materiais para ajudar a galera que está iniciando. A ideia é reunir materiais disponibilizados de forma gratuita e em pt-br 🇧🇷.
 
 ## Como contribuir:
 
