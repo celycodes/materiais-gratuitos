@@ -117,5 +117,29 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/dandaramcsousa" width="100px;" alt="Foto de Dandara Sousa"/><br>
+        <sub>
+          <b>Dandara Sousa</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/laisacsts" width="100px;" alt="Foto de Laisa Carmo"/><br>
+        <sub>
+          <b>Laisa Carmo</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/linferreira" width="100px;" alt="Foto de  Lindsay Ferreira"/><br>
+        <sub>
+          <b> Lindsay Ferreira</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
