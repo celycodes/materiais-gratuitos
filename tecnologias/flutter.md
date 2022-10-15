@@ -8,3 +8,6 @@
 ## Flutterando
 * [Flutter Curso 2022](https://www.youtube.com/playlist?list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)
 
+## Daves Tecnologia
+* [Curso de Flutter e Dart](https://www.youtube.com/playlist?list=PL5EmR7zuTn_aX0pG4oWTyKKQT25Hkq2XG)
+
