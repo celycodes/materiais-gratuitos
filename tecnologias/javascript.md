@@ -17,3 +17,5 @@
 - [Curso de JavaScript - Programação para web (Bóson Treinamentos)](https://www.youtube.com/watch?v=BL8yf44GnXs&list=PLucm8g_ezqNrXkDWHtgvtU9RGuauEs_xz) (Dica de [PedroDiFortuna](https://github.com/PedroDiFortuna))
 
 - [Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos (Dev Aprender)](https://youtu.be/i6Oi-YtXnAU) (Dica de [luizmineiro](https://github.com/luizmineiro)
+
+- [JavaScript Para Iniciantes (Glaucia Lemos)](https://www.youtube.com/playlist?list=PLb2HQ45KP0WsFop0pItGSUYl6baYjKEye) (Dica de [Scriptdy](https://github.com/scriptdy)
