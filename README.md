@@ -12,6 +12,8 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
 
 - Todos os PR's serão revisados antes de serem adicionados;
 
+- *IMPORTANTE!* não modifique o mural de contribuidores visto que só depois que o seu PR for aceito sua fotinha ficará exposta no nosso mural. 
+
 - Por ultimo mais não menos importante *Deixe uma estrela nesse repositorio (Star) ⭐*;
 
 - Como adicionar um novo material:
@@ -24,10 +26,8 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
             
 - Caso tiver alguma dúvida você pode abrir uma issue ou mandar uma DM para mim, clicando [aqui](https://www.instagram.com/celycodes/). 
 
-- Depois que o seu PR for aceito sua fotinha ficará exposta no nosso mural de contribuidores.
 
 ### 💻 Bons Estudos 📚
-
 
 
 ## 💜 Contribuidores 💜
