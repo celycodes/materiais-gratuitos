@@ -11,3 +11,7 @@
 - [JavaScript : Algoritmos + Estruturas de Dados (Everton Braga)](https://www.youtube.com/playlist?list=PLpfKv2Mn_c-HTFozSx8iplzzBlQJnPs2j) (Dica de [celenny](https://github.com/celenny))
 
 - [Curso JS Moderno (ES6+) (Willian Justen)](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPQ1BE8klOtheBC0mtL3hEi) (Dica de [Lindsay Ferreira](https://github.com/linferreira))
+
+- [Curso de JavaScript (CFBCursos)](https://www.youtube.com/watch?v=E4DBTqgxHGM&list=PLx4x_zx8csUg_AxxbVWHEyAJ6cBdsYc0T) (Dica de [PedroDiFortuna](https://github.com/PedroDiFortuna))
+
+- [Curso de JavaScript - Programação para web (Bóson Treinamentos)](https://www.youtube.com/watch?v=BL8yf44GnXs&list=PLucm8g_ezqNrXkDWHtgvtU9RGuauEs_xz) (Dica de [PedroDiFortuna](https://github.com/PedroDiFortuna))
