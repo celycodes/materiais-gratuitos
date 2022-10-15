@@ -153,9 +153,17 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
   <tr>
    <td align="center">
       <a href="#">
-        <img src="https://avatars1.githubusercontent.com/PedroDiFortuna" width="100px;" alt="Foto de PedroDiFortuna"/><br>
+        <img src="https://avatars1.githubusercontent.com/PedroDiFortuna" width="100px;" alt="Foto de Pedro Fortuna"/><br>
         <sub>
           <b>Pedro Fortuna</b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Guilheeeerme" width="100px;" alt="Foto de Guilherme de Moura"/><br>
+        <sub>
+          <b>Guilherme de Moura</b>
         </sub>
       </a>
     </td>
