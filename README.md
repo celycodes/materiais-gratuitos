@@ -30,7 +30,7 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
 ### 💻 Bons Estudos 📚
 
 
-## 💜 Contribuidores 💜
+## 💜 Mural de Contribuidores 💜
 
 <table>
   <tr>
