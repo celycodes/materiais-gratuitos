@@ -7,3 +7,6 @@
   
 - [Angular + Spring (Loiane Groner)](https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY&ab_channel=LoianeGroner)
   (Dica de [deverebor](https://github.com/deverebor))
+
+- [Angular 9 Essencial (Cod3r)](https://www.cod3r.com.br/courses/angular-9-essencial)
+  (Dica de [karinemoreira](https://github.com/karinemoreira))
