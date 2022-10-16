@@ -11,3 +11,5 @@
 - [Loiane Training](https://loiane.training/)
 
 - [Devaria](https://www.devaria.com.br/)
+
+- [Fundação Bradesco](https://www.ev.org.br/cursos/)
