@@ -10,3 +10,6 @@
 
 - [Angular 9 Essencial (Cod3r)](https://www.cod3r.com.br/courses/angular-9-essencial)
   (Dica de [karinemoreira](https://github.com/karinemoreira))
+
+- [Angular 13 (Paulo Eduardo Melo)](https://www.youtube.com/watch?v=qfUcxetl74M&list=PLqsayW8DhUmvtNlkDqYj99X73ts9FLK7j)
+  (Dica de [karinemoreira](https://github.com/karinemoreira))
