@@ -10,3 +10,5 @@
 
 * [Curso de Flutter e Dart (Daves Tecnologia)](https://www.youtube.com/playlist?list=PL5EmR7zuTn_aX0pG4oWTyKKQT25Hkq2XG) (Dica de [iang12](https://github.com/iang12))
 
+* [Programação com a linguagem Dart (Izac Claudino da Silva Junior)](https://www.udemy.com/course/programacao-linguagem-dart/) (Dica de [Eric Viana](https://github.com/))
+
