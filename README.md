@@ -235,5 +235,13 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Brunalu28" width="100px;" alt="Foto de Luiza Bruna"/><br>
+        <sub>
+          <b>Luiza Bruna</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
