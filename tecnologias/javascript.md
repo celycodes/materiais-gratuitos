@@ -20,4 +20,4 @@
 
 - [JavaScript : Algoritmos + Estruturas de Dados (Everton Braga)](https://www.youtube.com/playlist?list=PLpfKv2Mn_c-HTFozSx8iplzzBlQJnPs2j) (Dica de [celenny](https://github.com/celenny))
 
-- [JavaScript Para Iniciantes (Glaucia Lemos)](https://www.youtube.com/playlist?list=PLb2HQ45KP0WsFop0pItGSUYl6baYjKEye) (Dica de [Scriptdy](https://github.com/scriptdy)
+- [JavaScript Para Iniciantes (Glaucia Lemos)](https://www.youtube.com/playlist?list=PLb2HQ45KP0WsFop0pItGSUYl6baYjKEye) (Dica de [Scriptdy](https://github.com/scriptdy))
