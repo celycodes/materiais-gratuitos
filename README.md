@@ -210,4 +210,30 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
       </a>
     </td>
   </tr>
+  <tr>
+  <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Karinemoreira" width="100px;" alt="Foto de Karine Moreira"/><br>
+        <sub>
+          <b>Karine Moreira</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/bruna-luc" width="100px;" alt="Foto de Bruna Oliveira"/><br>
+        <sub>
+          <b>Bruna Oliveira</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Minaraih" width="100px;" alt="Foto de J.Júnior"/><br>
+        <sub>
+          <b>J.Júnior</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
 </table>
