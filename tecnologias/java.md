@@ -22,6 +22,8 @@
 - [Curso de Java Básico Gratuito com Certificado - Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
 (Dica de [deverebor](https://github.com/deverebor))
 
+-[Estrutura de Dados e Algoritmos Java - Loiane Groner](https://www.youtube.com/watch?v=N3K8PjFOhy4&list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi)
+
 - [Java para Iniciantes - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Gustavo Guanabara 
 
 - [Programação Orientada a Objetos em Java - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) - Gustavo Guanabara
@@ -47,4 +49,3 @@
 - [TDD – Desenvolvimento de software guiado por testes](https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) - Eduardo Guerra e Clovis Fernandes - ITA
 
 - [Testes unitários com Java utilizando o Junit](https://www.udemy.com/testes-unidade-automaticos-software-junit/) - Gustavo Farias
-
