@@ -259,5 +259,31 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/patrick0806" width="100px;" alt="Foto de Patrick Nicezi"/><br>
+        <sub>
+          <b>Patrick Nicezi</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/gildoneto" width="100px;" alt="Foto de Gildo Neto"/><br>
+        <sub>
+          <b>Gildo Neto</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/andersonhsporto" width="100px;" alt="Foto de Anderson Porto"/><br>
+        <sub>
+          <b>Anderson Porto</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
