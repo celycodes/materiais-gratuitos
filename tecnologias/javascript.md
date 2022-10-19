@@ -1,6 +1,4 @@
-
 ## Javascript e ECMAScript:
-
 
 - [Curso de JavaScript (Hora de Codar)](https://www.youtube.com/playlist?list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6) (Dica de [celenny](https://github.com/celenny))
 
@@ -21,5 +19,7 @@
 - [JavaScript : Algoritmos + Estruturas de Dados (Everton Braga)](https://www.youtube.com/playlist?list=PLpfKv2Mn_c-HTFozSx8iplzzBlQJnPs2j) (Dica de [celenny](https://github.com/celenny))
 
 - [JavaScript Para Iniciantes (Glaucia Lemos)](https://www.youtube.com/playlist?list=PLb2HQ45KP0WsFop0pItGSUYl6baYjKEye) (Dica de [Scriptdy](https://github.com/scriptdy))
+
+- [Modulos JavaScript (CODECASTS)](https://www.youtube.com/playlist?list=PLy5T05I_eQYNs5FHlBGLyUA1GP7LEIcUL)(Dica de [Patrick](https://github.com/patrick0806))
 
 - [Algoritmos e estruturas de dados em JavaScript **Com certificação**](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/), por [FreeCodeCamp](https://www.freecodecamp.org/) (Dica de [gildoneto](https://github.com/gildoneto))
