@@ -11,3 +11,5 @@
 - [Python Fundamentos Para Análise de Dados 3.0(Dat Science Academy)](https://www.datascienceacademy.com.br/course/python-fundamentos) (Dica de [Sabrina](https://github.com/sanaderer))
 
 - [Python e Orientação a Objetos - Alura ](https://www.alura.com.br/apostila-python-orientacao-a-objetos) (Dica de [Dandara](https://github.com/dandaramcsousa))
+
+- [Django Rest Framework - Regis do Python ](https://www.youtube.com/watch?v=UOW0CaFayFo&list=PLsGCdfxkV9uqTkbg5AXyqA1McFQayUr2j)
