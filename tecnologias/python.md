@@ -13,3 +13,5 @@
 - [Python e Orientação a Objetos - Alura ](https://www.alura.com.br/apostila-python-orientacao-a-objetos) (Dica de [Dandara](https://github.com/dandaramcsousa))
 
 - [Django Rest Framework - Regis do Python ](https://www.youtube.com/watch?v=UOW0CaFayFo&list=PLsGCdfxkV9uqTkbg5AXyqA1McFQayUr2j)
+
+- [Curso Básico Python (Hashtag Treinamentos](https://pages.hashtagtreinamentos.com/inscricao-curso-basico-python-basegoogle?origemurl=136706830445&gclid=Cj0KCQjw48OaBhDWARIsAMd966A8SqLUGrYyNRRlTbeLv3XGUTMRz3CSvQV7WhEjwwUWucoZsx22iqEaAmqxEALw_wcB)
