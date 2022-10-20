@@ -24,4 +24,6 @@
 
 - [Algoritmos e estruturas de dados em JavaScript **Com certificação**](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/), por [FreeCodeCamp](https://www.freecodecamp.org/) (Dica de [gildoneto](https://github.com/gildoneto))
 
+- [Curso JavaScript Web interativo para iniciantes **Grasshopper**](https://learn.grasshopper.app/), criado pela Google LCC (Também tem [app pra Android](https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=pt_BR&gl=US))
+
 - [32 conceitos que todo desenvolvedor JavaScript deveria saber (Gabriel Barreto)](https://www.udemy.com/course/32-conceitos-todo-dev-javascript-deveria-saber/) (Dica de [Ana Luiz](https://github.com/acluiz))
