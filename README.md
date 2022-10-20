@@ -313,7 +313,7 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
       <a href="#">
         <img src="https://avatars1.githubusercontent.com/raianesilvaz" width="100px;" alt="Foto de Raiane Silva"/><br>
         <sub>
-          <b></b>
+          <b>Raiane Silva</b>
         </sub>
       </a>
     </td>
@@ -321,7 +321,7 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
       <a href="#">
         <img src="https://avatars1.githubusercontent.com/LarissaAbreu" width="100px;" alt="Foto de Larissa Abreu"/><br>
         <sub>
-          <b>LarissaAbreu</b>
+          <b>Larissa Abreu</b>
         </sub>
       </a>
     </td>
