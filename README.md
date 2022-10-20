@@ -285,5 +285,13 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/ifdiego" width="100px;" alt="Foto de Diego Alves"/><br>
+        <sub>
+          <b>Diego Alves</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
