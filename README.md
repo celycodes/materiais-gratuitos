@@ -293,5 +293,47 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Setyobudi" width="100px;" alt="Foto de Muhammad Hakim Setyobudi"/><br>
+        <sub>
+          <b>Muhammad Setyobudi</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/leonardovictorribeiro" width="100px;" alt="Foto de Leonardo Ribeiro"/><br>
+        <sub>
+          <b>Leonardo Ribeiro</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/raianesilvaz" width="100px;" alt="Foto de Raiane Silva"/><br>
+        <sub>
+          <b></b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/LarissaAbreu" width="100px;" alt="Foto de Larissa Abreu"/><br>
+        <sub>
+          <b>LarissaAbreu</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+  <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/angelicabarros" width="100px;" alt="Foto de Angélica Barros"/><br>
+        <sub>
+          <b>Angélica Barros</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
