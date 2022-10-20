@@ -4,6 +4,8 @@
 
 - [Curso de Python (Otávio Miranda)](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0ayQsrhEf-7-8JAj-MwmPr) (Dica de [celenny](https://github.com/celenny))
 
+- [Introdução à linguagem Python (Diego Mariano, Ph.D.)](https://www.udemy.com/course/intro_python/) (Dica de [Setyobudi](https://github.com/Setyobudi))
+
 - [Python (Digital Innovation One)](https://web.dio.me/browse?editorial=a357ccd1-fd65-4285-a2ce-867dba984cfa&page=1) (Dica de [celenny](https://github.com/celenny))
 
 - [Estrutura de Dados utilizando Python (Programação Dinâmica)](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5Bb71AE5Cd_kB5rNsfU4Cp) (Dica da [Fernanda](https://github.com/Fernanda-Dantas))
