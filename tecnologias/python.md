@@ -23,3 +23,12 @@
 - [Introdução à Ciência da Computação com Python Parte 1](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos) (Coursera - Fabio Kon) (Dica de [João Victor](https://github.com/jvvoliveira))
 
 - [Introdução à Ciência da Computação com Python Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) (Coursera - Fabio Kon) (Dica de [João Victor](https://github.com/jvvoliveira))
+
+- [Curso de Python Mundo 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) (Curso em Vídeo - Gustavo Guanabara) (Dica de [Eduardo Vítor](https://github.com/eduardovitor))
+
+- [Curso de Python Mundo 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) (Curso em Vídeo - Gustavo Guanabara) (Dica de [Eduardo Vítor](https://github.com/eduardovitor))
+
+- [Curso de Python Mundo 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) (Curso em Vídeo - Gustavo Guanabara) (Dica de [Eduardo Vítor](https://github.com/eduardovitor))
+
+- [Introdução à Ciência da Computação com Python Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) (Coursera - Fabio Kon) (Dica de [João Victor](https://github.com/jvvoliveira))
+
