@@ -343,5 +343,21 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/ibiaalice" width="100px;" alt="Foto de Bia Alice"/><br>
+        <sub>
+          <b>Bia Alice</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/jvvoliveira" width="100px;" alt="Foto de João Victor Oliveira"/><br>
+        <sub>
+          <b>João Victor Oliveira</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
