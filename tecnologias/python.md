@@ -16,6 +16,8 @@
 
 - [Django Rest Framework - Regis do Python ](https://www.youtube.com/watch?v=UOW0CaFayFo&list=PLsGCdfxkV9uqTkbg5AXyqA1McFQayUr2j)
 
+- [Curso Python Basico](https://solyd.com.br/treinamentos/python-basico/)
+
 - [Curso Básico Python (Hashtag Treinamentos)](https://pages.hashtagtreinamentos.com/inscricao-curso-basico-python-basegoogle?origemurl=136706830445&gclid=Cj0KCQjw48OaBhDWARIsAMd966A8SqLUGrYyNRRlTbeLv3XGUTMRz3CSvQV7WhEjwwUWucoZsx22iqEaAmqxEALw_wcB)
 
 - [Introdução à Ciência da Computação com Python Parte 1](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos) (Coursera - Fabio Kon) (Dica de [João Victor](https://github.com/jvvoliveira))
@@ -28,4 +30,5 @@
 
 - [Curso de Python Mundo 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) (Curso em Vídeo - Gustavo Guanabara) (Dica de [Eduardo Vítor](https://github.com/eduardovitor))
 
+- [Introdução à Ciência da Computação com Python Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) (Coursera - Fabio Kon) (Dica de [João Victor](https://github.com/jvvoliveira))
 
