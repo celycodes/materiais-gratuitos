@@ -13,3 +13,7 @@
 - [Python e Orientação a Objetos - Alura ](https://www.alura.com.br/apostila-python-orientacao-a-objetos) (Dica de [Dandara](https://github.com/dandaramcsousa))
 
 - [Django Rest Framework - Regis do Python ](https://www.youtube.com/watch?v=UOW0CaFayFo&list=PLsGCdfxkV9uqTkbg5AXyqA1McFQayUr2j)
+
+- [Introdução à Ciência da Computação com Python Parte 1](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos) (Fabio Kon) (Dica de [João Victor](https://github.com/jvvoliveira))
+
+- [Introdução à Ciência da Computação com Python Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) (Fabio Kon) (Dica de [João Victor](https://github.com/jvvoliveira))
