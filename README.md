@@ -359,5 +359,21 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/thalytabdn" width="100px;" alt="Foto de Thalyta Barbosa"/><br>
+        <sub>
+          <b>Thalyta Barbosa</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/eduardovitor" width="100px;" alt="Foto de Eduardo Vítor"/><br>
+        <sub>
+          <b>Eduardo Vítor</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
