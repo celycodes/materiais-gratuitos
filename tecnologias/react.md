@@ -1,1 +1,3 @@
   - [React para Iniciantes (Bruno Paulino)](https://www.udemy.com/course/react-para-iniciantes-free/)
+  - [Imersão React (Alura)](https://www.alura.com.br/imersao-react?gclid=Cj0KCQjw48OaBhDWARIsAMd966DwhnR1PB9mEDqGIKMA6BFn9acEt_g_Wi6JAnC0YLEou6xvF9IRiz8aArw7EALw_wcB)
+  - [React JS Curso Rápido (Cod3r Cursos)](https://www.youtube.com/watch?v=XQxitgyZ_S4)
