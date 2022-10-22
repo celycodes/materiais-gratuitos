@@ -32,6 +32,8 @@
 
 - [Introdução à Ciência da Computação com Python Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) (Coursera - Fabio Kon) (Dica de [João Victor](https://github.com/jvvoliveira))
 
+- [Curso Fastapi](https://www.youtube.com/watch?v=Hx6w7JXYHbY&list=PLuhCJtW2i-wKK9HjfYJI4RIcd9AMIi88k)) (Rogério Silva) (Dica de [Vitor Azevedo](https://github.com/vitorAzevedo09))
+
 - [Python para Zumbis](https://www.youtube.com/c/PythonparaZumbis/playlists) (Fernando Masanori) (Dica de [Joseph Meireles](https://github.com/meirelesTech))
 
 - [Python Básico](https://solyd.com.br/treinamentos/python-basico/) (SOLYD) (Dica de [TiagoPS2](https://github.com/TiagoPS2))
