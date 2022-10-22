@@ -34,3 +34,8 @@
 
 - [Curso Fastapi](https://www.youtube.com/watch?v=Hx6w7JXYHbY&list=PLuhCJtW2i-wKK9HjfYJI4RIcd9AMIi88k)) (Rogério Silva) (Dica de [Vitor Azevedo](https://github.com/vitorAzevedo09))
 
+- [Python para Zumbis](https://www.youtube.com/c/PythonparaZumbis/playlists) (Fernando Masanori) (Dica de [Joseph Meireles](https://github.com/meirelesTech))
+
+- [Python Básico](https://solyd.com.br/treinamentos/python-basico/) (SOLYD) (Dica de [TiagoPS2](https://github.com/TiagoPS2))
+
+- [Descomplicando RobotFramework](https://medium.com/rchlo-midway-tech/descomplicando-a-automatiza%C3%A7%C3%A3o-de-testes-com-robot-framework-af793f590ef1) (Michele Monteiro) (Dica de [Joseph Oliveira](https://github.com/meirelesTech))

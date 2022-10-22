@@ -11,3 +11,5 @@
 - [Curso de PHP do Básico ao Intermediário (Gunnar Correa)](https://www.udemy.com/course/php-do-basico-ao-intermediario/) (Dica de [Sabrina](https://github.com/sanaderer))
 
 - [Curso PHP4Noobs - Guia Introdutório para o PHP (Daniel Reis)](https://www.udemy.com/course/php4noobs/) (Dica de [Laisa](https://github.com/laisacsts))
+
+- [Beer and Code -  Podcasts e muita prosa sobre desenvolvimento] (https://www.youtube.com/c/BeerandCode) [Dica de Joseph](https://github.com/MeirelesTech)
