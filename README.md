@@ -375,5 +375,55 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/adalbertobrant" width="100px;" alt="Foto de Adalberto Brant"/><br>
+        <sub>
+          <b>Adalberto Brant</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+  <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/MeirelesTech" width="100px;" alt="Foto de Joseph Oliveira"/><br>
+        <sub>
+          <b>Joseph Oliveira</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/MatheusHenriq" width="100px;" alt="Foto de Matheus Henrique"/><br>
+        <sub>
+          <b>Matheus Henrique</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/TiagoPS2" width="100px;" alt="Foto de Tiago Santos"/><br>
+        <sub>
+          <b>Tiago Santos</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/OdilonDamasceno" width="100px;" alt="Foto de Odilon Damasceno"/><br>
+        <sub>
+          <b>Odilon Damasceno</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/vitorAzevedo09" width="100px;" alt="Foto de Vitor Azevedo"/><br>
+        <sub>
+          <b>Vitor Azevedo</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
