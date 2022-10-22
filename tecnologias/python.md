@@ -32,3 +32,4 @@
 
 - [Introdução à Ciência da Computação com Python Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) (Coursera - Fabio Kon) (Dica de [João Victor](https://github.com/jvvoliveira))
 
+- [Descomplicando RobotFramework](https://medium.com/rchlo-midway-tech/descomplicando-a-automatiza%C3%A7%C3%A3o-de-testes-com-robot-framework-af793f590ef1) (Michele Monteiro) (Dica de [Joseph Oliveira](https://github.com/meirelesTech))
