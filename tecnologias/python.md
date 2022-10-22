@@ -32,3 +32,5 @@
 
 - [Introdução à Ciência da Computação com Python Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) (Coursera - Fabio Kon) (Dica de [João Victor](https://github.com/jvvoliveira))
 
+- [Python Básico](https://solyd.com.br/treinamentos/python-basico/) (SOLYD) (Dica de [TiagoPS2](https://github.com/TiagoPS2))
+
