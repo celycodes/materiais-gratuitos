@@ -15,3 +15,5 @@
 - [Treinamento em Vue.js 3 (Devaria)](https://www.devaria.com.br/treinamentos/6)
   (Dica de [karinemoreira](https://github.com/karinemoreira))
 
+- [Treinamento em Vue.js 3 (Tiago Matos)](https://www.youtube.com/watch?v=9DRY-aNPta0&list=PLcoYAcR89n-qTYqfWTGxXMnAvCqY3JF8w)
+  (Dica de [Joseph Oliveira](https://github.com/meirelesTech))
