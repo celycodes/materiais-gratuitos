@@ -425,5 +425,13 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/AntJoaquimDev" width="100px;" alt="Foto de Antonio Joaquim"/><br>
+        <sub>
+          <b>Antonio Joaquim</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
