@@ -452,5 +452,13 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/jrsmarcilio" width="100px;" alt="Foto de Marcílio Júnior"/><br>
+        <sub>
+          <b>Marcílio Júnior</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
