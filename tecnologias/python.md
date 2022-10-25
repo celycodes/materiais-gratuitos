@@ -41,3 +41,5 @@
 - [Descomplicando RobotFramework](https://medium.com/rchlo-midway-tech/descomplicando-a-automatiza%C3%A7%C3%A3o-de-testes-com-robot-framework-af793f590ef1) (Michele Monteiro) (Dica de [Joseph Oliveira](https://github.com/meirelesTech))
 
 -[Curso de Flask](https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX) (Júlia Rizza) (Dica de [Ana Maria](https://github.com/anamariagds))
+
+-[Conceitos fundamentais de Django](https://www.udemy.com/course/django-20-aprendendo-os-conceitos-fundamentais/) (Gregory Pacheco) (Dica de [Ana Maria](https://github.com/anamariagds))
