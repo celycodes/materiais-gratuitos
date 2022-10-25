@@ -17,3 +17,6 @@
 
 - [Treinamento em Vue.js 3 (Tiago Matos)](https://www.youtube.com/watch?v=9DRY-aNPta0&list=PLcoYAcR89n-qTYqfWTGxXMnAvCqY3JF8w)
   (Dica de [Joseph Oliveira](https://github.com/meirelesTech))
+
+- [Componentes, Métodos e Ciclo de Vida com Vue.js (DIO)](https://web.dio.me/course/introducao-ao-vuejs/learning/89a47cdb-7960-4274-9670-44f1bff8b997)
+  (Dica de [paulofsnunes](https://github.com/paulofsnunes))
