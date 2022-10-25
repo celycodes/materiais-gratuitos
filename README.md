@@ -433,5 +433,64 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/rafasilvasousa" width="100px;" alt="Foto de Rafael Sousa"/><br>
+        <sub>
+          <b>Rafael Sousa</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+  </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/amandapmn" width="100px;" alt="Foto de amandapmn"/><br>
+        <sub>
+          <b>amandapmn</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/jrsmarcilio" width="100px;" alt="Foto de Marcílio Júnior"/><br>
+        <sub>
+          <b>Marcílio Júnior</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Francks01" width="100px;" alt="Foto de Francks01"/><br>
+        <sub>
+          <b>Francks01</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/anamariagds" width="100px;" alt="Foto de Ana Maria Gomes"/><br>
+        <sub>
+          <b>Ana Maria Gomes</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/krydelmany" width="100px;" alt="Foto de krydelmany"/><br>
+        <sub>
+          <b>krydelmany</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/paulofsnunes" width="100px;" alt="Foto de Paulo Franklin"/><br>
+        <sub>
+          <b>Paulo Franklin</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
