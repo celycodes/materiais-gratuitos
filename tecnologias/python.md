@@ -42,6 +42,8 @@
 
 -[Curso de Flask](https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX) (Júlia Rizza) (Dica de [Ana Maria](https://github.com/anamariagds))
 
+-[Conceitos fundamentais de Django](https://www.udemy.com/course/django-20-aprendendo-os-conceitos-fundamentais/) (Gregory Pacheco) (Dica de [Ana Maria](https://github.com/anamariagds))
+
 -[Dojo: Exercícios em Orientação a Objetos](https://www.youtube.com/playlist?list=PLAgbpJQADBGKGbD5H9HjTxaaLHJVekAtE) (Programador Lhama) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
 
 -[Request API em Python](https://www.youtube.com/playlist?list=PLAgbpJQADBGLG_ap3sbYefUp8HsiTt6Kf) (Programador Lhama) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
