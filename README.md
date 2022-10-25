@@ -484,5 +484,13 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/paulofsnunes" width="100px;" alt="Foto de Paulo Franklin"/><br>
+        <sub>
+          <b>Paulo Franklin</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
