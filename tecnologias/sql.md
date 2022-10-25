@@ -16,3 +16,7 @@
 
 - [Curso de MySQL (Boson Treinamentos)](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR)
   (Dica de [Rafael SS](https://github.com/rafasilvasousa))
+
+- [Começando com Banco de Dados (Filho da Nuvem)](https://www.youtube.com/playlist?list=PLzehOqhpwpxiD25V8Nzv8kxfCAiBFxoGw) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
+
+- [SQLAlchemy Survivor Guide(Programador Lhama)](https://www.youtube.com/playlist?list=PLAgbpJQADBGKbwhOvd9DVWy-xhA1KEGm1) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
