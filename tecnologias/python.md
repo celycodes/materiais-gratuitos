@@ -41,3 +41,15 @@
 - [Descomplicando RobotFramework](https://medium.com/rchlo-midway-tech/descomplicando-a-automatiza%C3%A7%C3%A3o-de-testes-com-robot-framework-af793f590ef1) (Michele Monteiro) (Dica de [Joseph Oliveira](https://github.com/meirelesTech))
 
 -[Curso de Flask](https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX) (Júlia Rizza) (Dica de [Ana Maria](https://github.com/anamariagds))
+
+-[Dojo: Exercícios em Orientação a Objetos](https://www.youtube.com/playlist?list=PLAgbpJQADBGKGbD5H9HjTxaaLHJVekAtE) (Programador Lhama) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
+
+-[Request API em Python](https://www.youtube.com/playlist?list=PLAgbpJQADBGLG_ap3sbYefUp8HsiTt6Kf) (Programador Lhama) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
+
+-[Docker na Prática com Python](https://www.youtube.com/playlist?list=PLAgbpJQADBGIDbMSopaqFnGm7GJnwru0-) (Programador Lhama) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
+
+-[Orientação a Objetos em Python](https://www.youtube.com/playlist?list=PLAgbpJQADBGLo24x_xBwGtTDO-bjwrFb_) (Programador Lhama) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
+
+-[Python - Conceitos Rápidos](https://www.youtube.com/playlist?list=PLAgbpJQADBGK-FaAZBvbAnqALbwcpR4Xu) (Programador Lhama) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
+
+-[Clean Architecture Python](https://www.youtube.com/playlist?list=PLAgbpJQADBGJmTxeRZKWvdJAoJj8_x3si) (Programador Lhama) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
