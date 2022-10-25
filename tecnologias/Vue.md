@@ -16,8 +16,12 @@
   (Dica de [karinemoreira](https://github.com/karinemoreira))
 
 - [Treinamento em Vue.js 3 (Tiago Matos)](https://www.youtube.com/watch?v=9DRY-aNPta0&list=PLcoYAcR89n-qTYqfWTGxXMnAvCqY3JF8w)
-  (Dica de [Joseph Oliveira](https://github.com/meirelesTech))
+  (Dica de [Joseph Oliveira](https://github.com/meirelesTech)) 
+  
+- [Diretivas e Propriedades de Componentes Vue.js (DIO)](https://web.dio.me/course/diretivas-e-propriedades-de-componentes-vuejs/learning/c759ae16-e182-47b7-83fa-bff8a682fc10)
+  (Dica de [paulofsnunes](https://github.com/paulofsnunes))
 
 - [Componentes, Métodos e Ciclo de Vida com Vue.js (DIO)](https://web.dio.me/course/componentes-metodos-e-ciclo-de-vida-com-vuejs/learning/882e5ea2-5457-42bd-8d52-2ed954a36964)
 
 - [Introdução ao Vue.js (DIO)](https://web.dio.me/course/introducao-ao-vuejs/learning/89a47cdb-7960-4274-9670-44f1bff8b997) (Dica de [paulofsnunes](https://github.com/paulofsnunes))
+
