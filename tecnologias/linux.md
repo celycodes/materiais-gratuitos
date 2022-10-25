@@ -8,6 +8,9 @@
 
 - [Curso de Terminal Linux (Diego Mariano, Ph.D. - Udemy)](https://www.udemy.com/course/terminal-de-comandos-linux/) (Dica de [Francks01](https://github.com/Francks01)
 
+- [Curso de Terminal Linux Avançado (Dicas do Guarapa - Youtube)](https://youtube.com/playlist?list=PLGw1E40BSQnRZufbzjGVzkH-O8SngPymp) (Dica de [Francks01](https://github.com/Francks01)
+
+- [Curso de Linux Ubuntu Server 20.04.x LTS DevOps Shell Script com Git e Github (Bora pra Prática - Youtube)](https://youtube.com/playlist?list=PLozhsZB1lLUMRxzwCbAzmhjNnkwr11p7I) (Dica de [Francks01](https://github.com/Francks01)
 
 
 
