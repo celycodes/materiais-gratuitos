@@ -27,3 +27,5 @@
 - [Curso JavaScript Web interativo para iniciantes **Grasshopper**](https://learn.grasshopper.app/), criado pela Google LCC (Também tem [app pra Android](https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=pt_BR&gl=US))
 
 - [32 conceitos que todo desenvolvedor JavaScript deveria saber (Gabriel Barreto)](https://www.udemy.com/course/32-conceitos-todo-dev-javascript-deveria-saber/) (Dica de [Ana Luiz](https://github.com/acluiz))
+
+- [Introdução ao JavaScript (Fundação Bradesco)](https://www.ev.org.br/cursos/introducao-ao-javascript) (Dica de [karinemoreira](https://github.com/karinemoreira))
