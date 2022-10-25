@@ -17,3 +17,6 @@
 
 - [Treinamento em Vue.js 3 (Tiago Matos)](https://www.youtube.com/watch?v=9DRY-aNPta0&list=PLcoYAcR89n-qTYqfWTGxXMnAvCqY3JF8w)
   (Dica de [Joseph Oliveira](https://github.com/meirelesTech))
+
+- [Diretivas e Propriedades de Componentes Vue.js (DIO)](https://web.dio.me/course/diretivas-e-propriedades-de-componentes-vuejs/learning/c759ae16-e182-47b7-83fa-bff8a682fc10)
+  (Dica de [paulofsnunes](https://github.com/paulofsnunes))
