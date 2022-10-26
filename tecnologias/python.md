@@ -44,6 +44,8 @@
 
 - [Conceitos fundamentais de Django](https://www.udemy.com/course/django-20-aprendendo-os-conceitos-fundamentais/) (Gregory Pacheco) (Dica de [Ana Maria](https://github.com/anamariagds))
 
+- [Conceitos fundamentais de Django](https://www.udemy.com/course/django-20-aprendendo-os-conceitos-fundamentais/) (Gregory Pacheco) (Dica de [Ana Maria](https://github.com/anamariagds))
+
 - [Dojo: Exercícios em Orientação a Objetos](https://www.youtube.com/playlist?list=PLAgbpJQADBGKGbD5H9HjTxaaLHJVekAtE) (Programador Lhama) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
 
 - [Request API em Python](https://www.youtube.com/playlist?list=PLAgbpJQADBGLG_ap3sbYefUp8HsiTt6Kf) (Programador Lhama) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
@@ -57,3 +59,4 @@
 - [Clean Architecture Python](https://www.youtube.com/playlist?list=PLAgbpJQADBGJmTxeRZKWvdJAoJj8_x3si) (Programador Lhama) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
 
 - [Curso introdutório de Python da Live de Python](https://youtu.be/yTQDbqmv8Ho) (@Dunossauro) (Dica de [Dandara](https://github.com/dandaramcsousa))
+
