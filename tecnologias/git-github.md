@@ -10,4 +10,6 @@
 
 - [Curso de Git (Bóson Treinamentos)](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) (Dica de [celenny](https://github.com/celenny))
 
-- [Git e Github na Vida Real (Willian Justen)](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg) (Dica de [celenny](https://github.com/celenny)) 
+- [Git e Github na Vida Real (Willian Justen)](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg) (Dica de [celenny](https://github.com/celenny))
+
+- [Do Git ao Github (Filho da Nuvem)](https://www.youtube.com/playlist?list=PLzehOqhpwpxibl8UDfzAKElg3Fx01DlXB) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
