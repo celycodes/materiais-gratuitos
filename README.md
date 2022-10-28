@@ -501,4 +501,14 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
       </a>
     </td>
   </tr>
+  <tr>
+   <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/LuisFelipeCracco" width="100px;" alt="Foto de Luis Felipe Cracco"/><br>
+        <sub>
+          <b>Luis Felipe Cracco</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
 </table>
