@@ -1,6 +1,8 @@
 
 # C
 
+- [Curso de Programação C Completo (Programe seu futuro)](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA)
+
 - [Programação Moderna em C (Papo Binário)](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
 
 - [Linguagem C Descomplicada (Programação Descomplicada)](https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp) 
