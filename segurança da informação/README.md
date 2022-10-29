@@ -14,3 +14,9 @@ Com vídeos, exercícios práticos e certificado no final
 * Fundação Bradesco - [Segurança em tecnologia da Informação](https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao)
 O curso tem 12h de duração, e você tem 60 dias para finalizar o curso
   * Fundação Bradesco - [Lei Geral de Proteção de Dados (LGPD)](https://www.ev.org.br/cursos/lei-geral-de-protecao-de-dados-lgpd)
+
+* wh0isdxk - [Desenvolvimento Seguro](https://github.com/wh0isdxk/DesenvolvimentoSeguro)
+ Repositorio do GitHub
+
+ * wh0isdxk - [Mobile Security](https://github.com/wh0isdxk/MobileSecurity)
+ Repositorio do GitHub
