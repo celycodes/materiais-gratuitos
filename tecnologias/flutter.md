@@ -1,5 +1,7 @@
 # Flutter
 
+- [Curso de Programação com Dart (Deivid Willyan)](https://youtube.com/playlist?list=PLRpTFz5_57cseSiszvssXO7HKVzOsrI77) Dica de [Luis Felipe Cracco](https://github.com/LuisFelipeCracco))
+
 - [Flutter para Iniciantes (Deivid Willyan)](https://www.youtube.com/watch?v=fcMlPEVSacs&list=PLRpTFz5_57cvo0CHf-AnojOvpznz8YO7S&ab_channel=DeividWillyan%7CFlutter) (Dica de [JunioKOI](https://github.com/Juniokoi))
 
 - [Flutter Intermediário (Deivid Willyan)](https://www.youtube.com/watch?v=14Ahr8S1psk&list=PLRpTFz5_57cvYvKja5Ex92aQ_HNADo4Oh&ab_channel=DeividWillyan%7CFlutter) (Dica de [JunioKOI](https://github.com/Juniokoi))
