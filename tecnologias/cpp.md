@@ -1,5 +1,7 @@
 # C++
 
+- [Curso C++ (eXcript)](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo)
+
 - [Evolução do C++ (Alura)](https://www.youtube.com/watch?v=_n5hLYGjdfk)
 
 - [História do C++ (Dicionário do Programador)](https://www.youtube.com/watch?v=AQdABlihlGs)
