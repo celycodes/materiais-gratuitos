@@ -22,7 +22,7 @@
 - [Curso de Java Básico Gratuito com Certificado - Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
 (Dica de [deverebor](https://github.com/deverebor))
 
--[Estrutura de Dados e Algoritmos Java - Loiane Groner](https://www.youtube.com/watch?v=N3K8PjFOhy4&list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi)
+- [Estrutura de Dados e Algoritmos Java - Loiane Groner](https://www.youtube.com/watch?v=N3K8PjFOhy4&list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi)
 
 - [Java para Iniciantes - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Gustavo Guanabara 
 
