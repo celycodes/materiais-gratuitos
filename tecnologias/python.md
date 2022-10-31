@@ -60,3 +60,4 @@
 
 - [Curso introdutório de Python da Live de Python](https://youtu.be/yTQDbqmv8Ho) (@Dunossauro) (Dica de [Dandara](https://github.com/dandaramcsousa))
 
+- [Curso de Selenium](https://www.youtube.com/watch?v=PHHXksljGNA&list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B), (@Dunossauro) (Dica do [Bruna Ferreira](https://github.com/bugelseif));
