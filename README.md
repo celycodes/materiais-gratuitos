@@ -520,9 +520,25 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars1.githubusercontent.com/bugelseif" width="100px;" alt="Foto de Marcos Vinicius"/><br>
+        <img src="https://avatars1.githubusercontent.com/bugelseif" width="100px;" alt="Foto de Bruna Ferreira"/><br>
         <sub>
-          <b>Marcos Vinicius</b>
+          <b>Bruna Ferreira</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/leitoraincomum" width="100px;" alt="Foto de Fernanda Souza"/><br>
+        <sub>
+          <b>Fernanda Souza</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/LelePG" width="100px;" alt="Foto de Leticia Pegoraro"/><br>
+        <sub>
+          <b>Leticia Pegoraro</b>
         </sub>
       </a>
     </td>
