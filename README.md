@@ -435,9 +435,9 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars1.githubusercontent.com/rafasilvasousa" width="100px;" alt="Foto de Rafael Sousa"/><br>
+        <img src="https://avatars1.githubusercontent.com/rafasilvasousa" width="100px;" alt="Foto de Bruna Ferreira"/><br>
         <sub>
-          <b>Rafael Sousa</b>
+          <b>Bruna Ferreira</b>
         </sub>
       </a>
     </td>
@@ -513,6 +513,14 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
     <td align="center">
       <a href="#">
         <img src="https://avatars1.githubusercontent.com/MarcosViniicius" width="100px;" alt="Foto de Marcos Vinicius"/><br>
+        <sub>
+          <b>Marcos Vinicius</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/bugelseif" width="100px;" alt="Foto de Marcos Vinicius"/><br>
         <sub>
           <b>Marcos Vinicius</b>
         </sub>
