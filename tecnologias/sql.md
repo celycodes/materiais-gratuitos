@@ -20,3 +20,5 @@
 - [Começando com Banco de Dados (Filho da Nuvem)](https://www.youtube.com/playlist?list=PLzehOqhpwpxiD25V8Nzv8kxfCAiBFxoGw) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
 
 - [SQLAlchemy Survivor Guide(Programador Lhama)](https://www.youtube.com/playlist?list=PLAgbpJQADBGKbwhOvd9DVWy-xhA1KEGm1) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
+
+- [Curso de SQL para Análise de Dados (Programação dinâmica)](https://www.youtube.com/watch?v=BRPUA0EgS4I&list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6)
