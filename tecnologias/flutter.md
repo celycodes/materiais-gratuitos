@@ -12,8 +12,12 @@
 
 - [Curso de Flutter e Dart (Daves Tecnologia)](https://www.youtube.com/playlist?list=PL5EmR7zuTn_aX0pG4oWTyKKQT25Hkq2XG) (Dica de [iang12](https://github.com/iang12))
 
-- [Programação com a linguagem Dart (Izac Claudino da Silva Junior)](https://www.udemy.com/course/programacao-linguagem-dart/) (Dica de [Eric Viana](https://github.com/))
+- [Programação com a linguagem Dart (Izac Claudino da Silva Junior)](https://www.udemy.com/course/programacao-linguagem-dart/) (Dica de [Eric Viana](https://github.com/ericviana))
 
 - [Do Zero à Publicação (Dotcode)](https://www.youtube.com/playlist?list=PLgQHOfYMaGIXTZA-k7NazkifmAvJM1vw6) Dica de [Antonio Joaquim](https://github.com/AntJoaquimDev))
 
 - [Flutter e Dart - Curso (Polimorfismo)](https://www.youtube.com/playlist?list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_) Dica de [Antonio Joaquim](https://github.com/AntJoaquimDev))
+
+- [Mini Curso de Introdução ao Flutter - 1 (Erisvaldo Correia)](https://www.udemy.com/course/mini-curso-de-introducao-ao-flutter/) (Dica de [Eric Viana](https://github.com/ericviana))
+
+
