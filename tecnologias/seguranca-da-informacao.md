@@ -21,4 +21,4 @@
   * Repositorio do GitHub
 
 - [Introdução a Segurança da Informação (E-Security)](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/)
-    * Com vídeos, exercícios práticos e certificado no fina
+    * Com vídeos, exercícios práticos e certificado no final
