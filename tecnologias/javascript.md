@@ -31,3 +31,11 @@
 - [Introdução ao JavaScript (Fundação Bradesco)](https://www.ev.org.br/cursos/introducao-ao-javascript) (Dica de [karinemoreira](https://github.com/karinemoreira))
 
 - [JavaScript Antes do Framework - 10 Dicas (Origamid)](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt) (Dica de [paulofsnunes](https://github.com/paulofsnunes))
+
+- [Curso de Javascript Completo (Canal Programação Web)](https://www.youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw)
+
+- [Curso de JavaScript Para Completos Iniciantes (Canal Felipe Rocha • dicasparadevs)](https://www.youtube.com/playlist?list=PLm-VCNNTu3LnlPhqxx03kvjQd3qF6EBdz)
+
+- [Curso de JavaScript (Canal Professor Edson Maia)](https://www.youtube.com/playlist?list=PLnex8IkmReXxZEXje06kW1uCwm5iC8M_Z)
+
+- [Curso de Javascript (Canal Node Studio Treinamentos)](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR)
