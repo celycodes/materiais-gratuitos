@@ -1,0 +1,3 @@
+# Computação Gráfica
+
+- [Curso de Computação Gráfica - UFF](http://www.ic.uff.br/~aconci/Transformacoes2D-3D.pdf) (Dica de [matheushenriq](https://github.com/matheushenriq))
