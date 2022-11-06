@@ -1,4 +1,4 @@
-## PHP
+﻿## PHP
 
 - [Curso de PHP para Iniciantes (Curso em Vídeo)](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) (Dica de [fhilipe](https://github.com/fhilipecrash))
 
@@ -13,3 +13,5 @@
 - [Curso PHP4Noobs - Guia Introdutório para o PHP (Daniel Reis)](https://www.udemy.com/course/php4noobs/) (Dica de [Laisa](https://github.com/laisacsts))
 
 - [Beer and Code -  Podcasts e muita prosa sobre desenvolvimento] (https://www.youtube.com/c/BeerandCode) [Dica de Joseph](https://github.com/MeirelesTech)
+
+- [Cabra Dev - Curso POO Raiz com PHP](https://www.youtube.com/playlist?list=PLBD8to5dJhvzKn2cM_KAriWpL2SPQXbIf)
