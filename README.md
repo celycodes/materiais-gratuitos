@@ -542,5 +542,13 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/ed-morais" width="100px;" alt="Foto de Edilson Morais"/><br>
+        <sub>
+          <b>Edilson Morais</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
