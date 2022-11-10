@@ -18,11 +18,11 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
 
 - Como adicionar um novo material:
 
-        - [Nome do material](link do material) (pessoa que criou o material)
+        - [Nome do material (pessoa que criou o material)](link do material) 
 
 - Caso queira indicar que a dica foi sua, coloque desse jeito:
             
-        - [Nome do material](link do material) (pessoa que criou o material) (Dica de [Seu nome](Link do seu GitHub))
+        - [Nome do material (pessoa que criou o material)](link do material) (Dica de [Seu nome](Link do seu GitHub))
             
 - Caso tiver alguma dúvida você pode abrir uma issue ou mandar uma DM para mim, clicando [aqui](https://www.instagram.com/celycodes/). 
 
