@@ -13,3 +13,5 @@
 - [Devaria](https://www.devaria.com.br/)
 
 - [Fundação Bradesco](https://www.ev.org.br/cursos/)
+
+-  [Eu Capacito](https://www.eucapacito.com.br/cursos)
