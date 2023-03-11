@@ -61,3 +61,9 @@
 - [Curso introdutório de Python da Live de Python](https://youtu.be/yTQDbqmv8Ho) (@Dunossauro) (Dica de [Dandara](https://github.com/dandaramcsousa))
 
 - [Curso de Selenium](https://www.youtube.com/watch?v=PHHXksljGNA&list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B), (@Dunossauro) (Dica do [Bruna Ferreira](https://github.com/bugelseif));
+
+- [Curso de Python - Programação](https://www.youtube.com/watch?v=wpqkZJ10Gmo&list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2) (Bóson Treinamentos - Fábio dos Reis) (Dica de [Alexandre](https://github.com/Alexandre-S-bits))
+
+- [Curso de Python - Programação](https://www.youtube.com/watch?v=bHn91RxiTjY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD) (Bóson Treinamentos - Fábio dos Reis) (Dica de [Alexandre](https://github.com/Alexandre-S-bits))
+
+- [Curso de Python](https://www.youtube.com/watch?v=Ay-MakuSg08&list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR) (CFBCursos) (Dica de [Alexandre](https://github.com/Alexandre-S-bits))
