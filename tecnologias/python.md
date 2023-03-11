@@ -64,6 +64,6 @@
 
 - [Curso de Python - Programação](https://www.youtube.com/watch?v=wpqkZJ10Gmo&list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2) (Bóson Treinamentos - Fábio dos Reis) (Dica de [Alexandre](https://github.com/Alexandre-S-bits))
 
-- [Curso de Python - Programação](https://www.youtube.com/watch?v=bHn91RxiTjY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD) (Bóson Treinamentos - Fábio dos Reis) (Dica de [Alexandre](https://github.com/Alexandre-S-bits))
+- [Curso Python para Iniciantes](https://www.youtube.com/watch?v=bHn91RxiTjY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD) (Didática Tech) (Dica de [Alexandre](https://github.com/Alexandre-S-bits))
 
 - [Curso de Python](https://www.youtube.com/watch?v=Ay-MakuSg08&list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR) (CFBCursos) (Dica de [Alexandre](https://github.com/Alexandre-S-bits))
