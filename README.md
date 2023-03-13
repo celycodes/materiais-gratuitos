@@ -559,4 +559,14 @@ Criei esse repositório com o objetivo de reunir alguns links de materiais para 
       </a>
     </td>
   </tr>
+  <tr>
+  <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Alexandre-S-bits" width="100px;" alt="Foto de Alexandre Silva"/><br>
+        <sub>
+          <b>Alexandre Silva</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
 </table>
