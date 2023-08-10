@@ -1,7 +1,7 @@
 ![materiais-gratuitos](https://github.com/celycodes/materiais-gratuitos/assets/70456452/6f75be33-9f30-4b7c-835e-9973c57006dd)
 
 
-Criei esse repositório com o objetivo de reunir alguns links de materiais para ajudar a galera que está iniciando. A ideia é reunir materiais disponibilizados de forma gratuita e em pt-br 🇧🇷.
+Repositório com o objetivo de reunir alguns links de materiais para ajudar a galera que está iniciando. A ideia é reunir materiais disponibilizados de forma gratuita e em pt-br 🇧🇷.
 
 ## Como contribuir:
 
