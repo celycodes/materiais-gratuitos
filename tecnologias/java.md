@@ -51,3 +51,5 @@
 - [Testes unitários com Java utilizando o Junit](https://www.udemy.com/testes-unidade-automaticos-software-junit/) - Gustavo Farias
 
 - [Programação Orientada a Objetos com Java ](https://www.youtube.com/watch?v=zHPx0vyFMOI&list=PL_pqVN-1MnwNhaNktj8ukfX9yfjWFf7S-) - Kamila Code
+
+- [Java Essentials | Kamila Santos | linuxtips](https://www.linuxtips.io/course/java-essentials)
