@@ -69,3 +69,5 @@
 - [Curso de Python](https://www.youtube.com/watch?v=Ay-MakuSg08&list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR) (CFBCursos) (Dica de [Alexandre Silva](https://github.com/Alexandre-S-bits))
 
 - [Python para iniciantes](https://www.youtube.com/playlist?list=PLnNURxKyyLIKX73U7hISjIY7T5KiNNLu_) (Dev Aprender) (Dica de [Alexandre Silva](https://github.com/Alexandre-S-bits))
+
+- [Python Basics - Introdução e Mão na Massa](https://developers.botcity.dev/academy/devpro_python/aula1) (Renzo Nuccitelli) (Dica de [Bruna Ferreira](https://github.com/bugelseif))
