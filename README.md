@@ -280,9 +280,9 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars1.githubusercontent.com/andersonhsporto" width="100px;" alt="Foto de Anderson Porto"/><br>
+        <img src="https://avatars1.githubusercontent.com/Alexandre-S-bits" width="100px;" alt="Foto de Alexandre Silva"/><br>
         <sub>
-          <b>Anderson Porto</b>
+          <b>Alexandre Silva</b>
         </sub>
       </a>
     </td>
@@ -561,27 +561,11 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
     </td>
   </tr>
   <tr>
-  <td align="center">
-      <a href="#">
-        <img src="https://avatars1.githubusercontent.com/Alexandre-S-bits" width="100px;" alt="Foto de Alexandre Silva"/><br>
-        <sub>
-          <b>Alexandre Silva</b>
-        </sub>
-      </a>
-    </td>
     <td align="center">
       <a href="#">
         <img src="https://avatars1.githubusercontent.com/BrunaGPires" width="100px;" alt="Foto de Bruna Pires"/><br>
         <sub>
           <b>Bruna Pires</b>
-        </sub>
-      </a>
-    </td>
-          <td align="center">
-      <a href="#">
-        <img src="https://avatars1.githubusercontent.com/andersonhsporto" width="100px;" alt="Foto de Anderson Porto"/><br>
-        <sub>
-          <b>Anderson Porto</b>
         </sub>
       </a>
     </td>
