@@ -72,3 +72,4 @@
 
 - [Python Basics - Introdução e Mão na Massa](https://developers.botcity.dev/academy/devpro_python/aula1) (Renzo Nuccitelli) (Dica de [Bruna Ferreira](https://github.com/bugelseif))
 
+- [Curso de Programação em Python](https://www.youtube.com/playlist?list=PLFKhhNd35zq_INvuX9YzXIbtpo_LGDzYK) (Prime Cursos do Brasil)
