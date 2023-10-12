@@ -569,5 +569,13 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
         </sub>
       </a>
     </td>
+  <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Smilke" width="100px;" alt="Foto de Erik Luan"/><br>
+        <sub>
+          <b>Erik Luan</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
