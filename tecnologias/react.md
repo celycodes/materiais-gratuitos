@@ -3,3 +3,4 @@
   - [React JS Curso Rápido (Cod3r Cursos)](https://www.youtube.com/watch?v=XQxitgyZ_S4)
   - [Introdução ao Redux com React Native (DIO)](https://web.dio.me/course/desenvolvendo-aplicativos-moveis-com-redux-e-react-native/learning/ea3a34ec-f65e-497b-b47e-d0f6e8e033db/?back=/home) (Dica do [TiagoPS2](https://github.com/TiagoPS2))
   - [Tutorial Oficial React (React Docs)](https://pt-br.reactjs.org/docs/hello-world.html)
+  - [React Native (Geek Dev)](https://youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW)
