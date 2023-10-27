@@ -13,3 +13,5 @@
 - [Git e Github na Vida Real (Willian Justen)](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg) (Dica de [celenny](https://github.com/celenny))
 
 - [Do Git ao Github (Filho da Nuvem)](https://www.youtube.com/playlist?list=PLzehOqhpwpxibl8UDfzAKElg3Fx01DlXB) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
+
+- [Git e Github (Wesley Willians - School of Net)](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/)
