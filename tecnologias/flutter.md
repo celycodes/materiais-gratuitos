@@ -20,4 +20,4 @@
 
 - [Mini Curso de Introdução ao Flutter - 1 (Erisvaldo Correia)](https://www.udemy.com/course/mini-curso-de-introducao-ao-flutter/) (Dica de [Eric Viana](https://github.com/ericviana))
 
-
+- [Playlist de Flutter do canal Mango (Rodrigo Manguinho)](https://www.youtube.com/playlist?list=PL9aKtVrF05DxO56tetlFMmNGc7fuiCxdy)
