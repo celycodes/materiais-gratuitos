@@ -585,11 +585,27 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
         </sub>
       </a>
     </td>
-          <td align="center">
+<td align="center">
       <a href="#">
         <img src="https://avatars1.githubusercontent.com/carlogia7" width="100px;" alt="Foto de Carlo"/><br>
         <sub>
           <b>Carlo</b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/jupiracijunior" width="100px;" alt="Foto de Jupiraci Júnior"/><br>
+        <sub>
+          <b>Jupiraci Júnior</b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/OliverLidi" width="100px;" alt="Foto de OliverLidi"/><br>
+        <sub>
+          <b>Lidi Oliver</b>
         </sub>
       </a>
     </td>
