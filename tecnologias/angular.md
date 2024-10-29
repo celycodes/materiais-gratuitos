@@ -1,5 +1,13 @@
 # Angular
 
+### Sobre
+    
+Angular (comumente referido como "Angular 2+" ou "Angular 2") é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações. Angular é uma reescrita completa do AngularJS, feito pela mesma equipe que o construiu [– from wikipedia](https://pt.wikipedia.org/wiki/Angular_(framework)).
+
+Acesse [angular.dev](https://angular.dev/) ou [v17.angular.io](https://v17.angular.io/start) para a documentação oficial.
+
+---
+
 - [Angular (Loiane Groner)](https://loiane.training/curso/angular) (Dica de [karontyy](https://github.com/karontyy))
 
 - [Curso Angular 13 (Hora de codar)](https://youtube.com/playlist?list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw)
