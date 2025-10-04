@@ -15,7 +15,7 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
 
 - *IMPORTANTE!* não modifique o mural de contribuidores visto que só depois que o seu PR for aceito sua fotinha ficará exposta no nosso mural. 
 
-- Por ultimo mais não menos importante *Deixe uma estrela nesse repositorio (Star) ⭐*;
+- Por último, mas não menos importante: *Deixe uma estrela nesse repositório (Star) ⭐*;
 
 - Como adicionar um novo material:
 
@@ -25,7 +25,7 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
             
         - [Nome do material (pessoa que criou o material)](link do material) (Dica de [Seu nome](Link do seu GitHub))
             
-- Caso tiver alguma dúvida você pode abrir uma issue ou mandar uma DM para mim, clicando [aqui](https://www.instagram.com/celycodes/). 
+- Caso tenha alguma dúvida você pode abrir uma issue ou mandar uma DM para mim, clicando [aqui](https://www.instagram.com/celycodes/). 
 
 
 ### 💻 Bons Estudos 📚
