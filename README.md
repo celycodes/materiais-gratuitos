@@ -603,11 +603,29 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
     </td>
         <td align="center">
       <a href="#">
-        <img src="https://avatars1.githubusercontent.com/OliverLidi" width="100px;" alt="Foto de OliverLidi"/><br>
+        <img src="https://avatars1.githubusercontent.com/OliverLidi" width="100px;" alt="Foto de Lidi Oliver"/><br>
         <sub>
           <b>Lidi Oliver</b>
         </sub>
       </a>
     </td>
+ <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/fnetgit" width="100px;" alt="Foto de Francisco Neto"/><br>
+        <sub>
+          <b>Francisco Neto</b>
+        </sub>
+      </a>
+    </td>
   </tr>
+<tr>
+   <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/JosueSerejo" width="100px;" alt="Foto de Josue Serejo"/><br>
+        <sub>
+          <b>Josué Serejo</b>
+        </sub>
+      </a>
+    </td>     
+</tr>
 </table>
