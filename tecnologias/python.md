@@ -74,4 +74,4 @@
 
 - [Curso de Programação em Python](https://www.youtube.com/playlist?list=PLFKhhNd35zq_INvuX9YzXIbtpo_LGDzYK) (Prime Cursos do Brasil)
 
-- [Curso de Desenvolvimento de Automações com Python e BotCity](https://www.youtube.com/playlist?list=PLFKhhNd35zq_INvuX9YzXIbtpo_LGDzYK) (Bruna Ferreira + Academy BotCity)
+- [Curso de Desenvolvimento de Automações com Python e BotCity](https://developers.botcity.dev/academy/course/dev_desktop_web_pt) (Bruna Ferreira + Academy BotCity)
