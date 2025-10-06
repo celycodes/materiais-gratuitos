@@ -53,3 +53,7 @@
 - [Programação Orientada a Objetos com Java ](https://www.youtube.com/watch?v=zHPx0vyFMOI&list=PL_pqVN-1MnwNhaNktj8ukfX9yfjWFf7S-) - Kamila Code
 
 - [Java Essentials | Kamila Santos | linuxtips](https://www.linuxtips.io/course/java-essentials)
+
+- [MicroServices Com Java Spring](https://www.youtube.com/playlist?list=PL8iIphQOyG-Dp037UnFG0x8aduelvZZWE) - Michelli Brito
+
+- [Microservices Patterns](https://www.youtube.com/playlist?list=PL8iIphQOyG-CnURJRh-IgZHKafiMgNaNU) - Michelli Brito
