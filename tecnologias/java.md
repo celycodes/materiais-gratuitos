@@ -54,6 +54,20 @@
 
 - [Java Essentials | Kamila Santos | linuxtips](https://www.linuxtips.io/course/java-essentials)
 
+- [Fundamentos do Java para Iniciantes](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GSi8Q-haYkRy8KEv6Grvf) - Giuliana Bezerra
+
+- [Spring Boot](https://www.youtube.com/playlist?list=PLiFLtuN04BS0ENOAIL2NiqNNV0FmUKZH-) - Giuliana Bezerra
+
+- [Spring Cloud](https://www.youtube.com/playlist?list=PLiFLtuN04BS1rAjaXCPIytXBHDP2h3Vk3) - Giuliana Bezerra
+
+- [Java Avançado](https://www.youtube.com/playlist?list=PLiFLtuN04BS2bWB9UcIrun35kV080KoKU) - Giuliana Bezerra
+
+- [Segurança](https://www.youtube.com/playlist?list=PLiFLtuN04BS3HEUPiEpKPv-n1Nhjm5RKQ) - Giuliana Bezerra
+
+- [Tutoriais Spring Batch](https://www.youtube.com/playlist?list=PLiFLtuN04BS07Yw7rnoz1ytWCLu8yteVv) - Giuliana Bezerra
+
+- [Microsserviços](https://www.youtube.com/playlist?list=PLiFLtuN04BS2pgvdO2W7s6HEGhNojtk0F) - Giuliana Bezerra
+
 - [MicroServices Com Java Spring](https://www.youtube.com/playlist?list=PL8iIphQOyG-Dp037UnFG0x8aduelvZZWE) - Michelli Brito
 
 - [Microservices Patterns](https://www.youtube.com/playlist?list=PL8iIphQOyG-CnURJRh-IgZHKafiMgNaNU) - Michelli Brito
