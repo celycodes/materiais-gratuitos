@@ -643,5 +643,13 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
         </sub>
       </a>
     </td>
+<td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/kastrowalker" width="100px;" alt="Foto de Kastro Walker"/><br>
+        <sub>
+          <b>Kastro Walker</b>
+        </sub>
+      </a>
+    </td>
 </tr>
 </table>
