@@ -627,14 +627,6 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
         </sub>
       </a>
     </td>    
- <td align="center">
-      <a href="#">
-        <img src="https://avatars1.githubusercontent.com/bugelseif" width="100px;" alt="Foto de Bruna Ferreira"/><br>
-        <sub>
-          <b>Bruna Ferreira</b>
-        </sub>
-      </a>
-    </td>
 <td align="center">
       <a href="#">
         <img src="https://avatars1.githubusercontent.com/matheusandre1" width="100px;" alt="Foto de Matheus André"/><br>
