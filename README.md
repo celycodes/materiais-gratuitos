@@ -651,5 +651,13 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
         </sub>
       </a>
     </td>
+<td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/safwanahmadsaffi" width="100px;" alt="Foto de Safwan Ahmad"/><br>
+        <sub>
+          <b>Safwan Ahmad</b>
+        </sub>
+      </a>
+    </td>
 </tr>
 </table>
