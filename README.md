@@ -718,5 +718,31 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
         </sub>
       </a>
     </td> 
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/ASangelina" width="100px;" alt="Foto de Angelina"/><br>
+        <sub>
+          <b>Angelina</b>
+        </sub>
+      </a>
+    </td> 
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/RichelDare" width="100px;" alt="Foto de Raquel"/><br>
+        <sub>
+          <b>Raquel</b>
+        </sub>
+      </a>
+    </td> 
+</tr>
+<tr>
+  <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Dione-b" width="100px;" alt="Foto de Dione Bastos"/><br>
+        <sub>
+          <b>Dione Bastos</b>
+        </sub>
+      </a>
+    </td>     
 </tr>
 </table>
