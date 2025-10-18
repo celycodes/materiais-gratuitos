@@ -73,3 +73,5 @@ Recursos:
 - [Curso de Programação em Python (Prime Cursos do Brasil)](https://www.youtube.com/playlist?list=PLFKhhNd35zq_INvuX9YzXIbtpo_LGDzYK)
 
 - [Curso de Desenvolvimento de Automações com Python e BotCity](https://developers.botcity.dev/academy/course/dev_desktop_web_pt) (Bruna Ferreira + Academy BotCity)
+
+- [Introdução ao Pandas no Python - [SAIA DO ZERO EM 1 AULA] (Hashtag Programação)](https://youtu.be/C0aj3FjN5e0?si=lLLbeczOpbVzMIah) 
