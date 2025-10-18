@@ -710,5 +710,13 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
         </sub>
       </a>
     </td> 
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/barbosa-jp" width="100px;" alt="Foto de João Pedro Barbosa"/><br>
+        <sub>
+          <b>João Pedro Barbosa</b>
+        </sub>
+      </a>
+    </td> 
 </tr>
 </table>
