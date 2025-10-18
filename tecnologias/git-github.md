@@ -15,3 +15,5 @@
 - [Do Git ao Github (Filho da Nuvem)](https://www.youtube.com/playlist?list=PLzehOqhpwpxibl8UDfzAKElg3Fx01DlXB) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
 
 - [Git e Github (Wesley Willians - School of Net)](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/)
+
+- [GitHub como Portfólio? Aprenda a Personalizar seu Perfil! (Larissa Kich)](https://youtu.be/9ygf4hkLVnA?si=9pzl4H5v2XqJj38c) (Dica de [Luana](https://github.com/luanacostav))
