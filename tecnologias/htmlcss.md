@@ -21,3 +21,5 @@
 - [Curso HTML5 e CSS3 (2022) - Módulo 3 de 5 (Curso em Vídeo)](https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ) Dica de [Antonio Joaquim](https://github.com/AntJoaquimDev))
 
 - [Curso HTML5 e CSS3 (2022) - Módulo 4 de 5 (Curso em Vídeo)](https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) Dica de [Antonio Joaquim](https://github.com/AntJoaquimDev))
+
+- [Curso completo de HTML - seu PRIMEIRO SITE DO ZERO para iniciar em PROGRAMAÇÃO! (Rafaella Bellerini)](https://www.youtube.com/watch?v=Fhy-5CtVkiM) Dica de [João Pedro Barbosa](https://github.com/barbosa-jp)
