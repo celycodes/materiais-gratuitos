@@ -694,5 +694,21 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
         </sub>
       </a>
     </td> 
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/luanacostav" width="100px;" alt="Foto de Luana Vasconcelos"/><br>
+        <sub>
+          <b>Luana Vasconcelos</b>
+        </sub>
+      </a>
+    </td> 
+<td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/jp3droribeiro" width="100px;" alt="Foto de João Pedro Dutra"/><br>
+        <sub>
+          <b>João Pedro Dutra</b>
+        </sub>
+      </a>
+    </td> 
 </tr>
 </table>
