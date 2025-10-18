@@ -13,3 +13,5 @@
 [Pense Python 2](https://penseallen.github.io/PensePython2e/)(Allen Downey)(Dica de [kastrowalker](https://github.com/kastrowalker))
 
 [Introdução ao Python](https://files.cercomp.ufg.br/weby/up/688/o/M2_IP_24-09-24.pdf) (Rafael Divino Ferreira Feitosa)(Dica de [Jonatha](https://github.com/jowgaze))
+
+[Aprenda Computação com Python](https://mange.ifrn.edu.br/python/aprenda-com-py3/index.html) (Allen Downey, Jeff Elkner e Chris Meyers ) (Dica de [Kauã](https://github.com/Kaua-cel))
