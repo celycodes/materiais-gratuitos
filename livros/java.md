@@ -12,3 +12,5 @@
 [Java e orientação a objetos - Caelum](https://www.infolivros.org/pdfview/4715-java-e-orientacao-a-objetos-caelum/)
 
 [Programação em JAVA - Daniela Barreiro Claro e João Bosco Mangueira Sobral](https://www.infolivros.org/pdfview/4716-programacao-em-java-daniela-barreiro-claro-e-joao-bosco-mangueira-sobral/)
+
+[Java para Desenvolvimento Web](https://www.infolivros.org/pdfview/java-para-desenvolvimento-web-caelum-613/) (Dica de [Luana](https://github.com/luanacostav))
