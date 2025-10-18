@@ -676,4 +676,47 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
       </a>
     </td>
 </tr>
+<tr>
+</td>
+<td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Kaua-cel" width="100px;" alt="Foto de Neres-Dev"/><br>
+        <sub>
+          <b>Neres-Dev</b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/eddieJPNG" width="100px;" alt="Foto de Edson Rocha"/><br>
+        <sub>
+          <b>Edson Rocha</b>
+        </sub>
+      </a>
+    </td> 
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/luanacostav" width="100px;" alt="Foto de Luana Vasconcelos"/><br>
+        <sub>
+          <b>Luana Vasconcelos</b>
+        </sub>
+      </a>
+    </td> 
+<td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/jp3droribeiro" width="100px;" alt="Foto de João Pedro Dutra"/><br>
+        <sub>
+          <b>João Pedro Dutra</b>
+        </sub>
+      </a>
+    </td> 
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/barbosa-jp" width="100px;" alt="Foto de João Pedro Barbosa"/><br>
+        <sub>
+          <b>João Pedro Barbosa</b>
+        </sub>
+      </a>
+    </td> 
+</tr>
 </table>

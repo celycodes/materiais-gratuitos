@@ -15,3 +15,5 @@
 [Introdução ao Python](https://files.cercomp.ufg.br/weby/up/688/o/M2_IP_24-09-24.pdf) (Rafael Divino Ferreira Feitosa)(Dica de [Jonatha](https://github.com/jowgaze))
 
 [Aprenda Computação com Python](https://mange.ifrn.edu.br/python/aprenda-com-py3/index.html) (Allen Downey, Jeff Elkner e Chris Meyers ) (Dica de [Kauã](https://github.com/Kaua-cel))
+
+[Python Avançado ](https://repositorio.ifmg.edu.br/server/api/core/bitstreams/ba5fe2b4-a510-4a1a-9fda-7e59d758cb36/content) (Marcos Roberto Ribeiro) (Dica de [João Pedro](https://github.com/jp3droribeiro))
