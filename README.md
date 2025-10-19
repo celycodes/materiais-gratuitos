@@ -743,6 +743,14 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
           <b>Dione Bastos</b>
         </sub>
       </a>
-    </td>     
+    </td> 
+ <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/josuekla" width="100px;" alt="Foto de Josue Klaysler"/><br>
+        <sub>
+          <b>Josue Klaysler</b>
+        </sub>
+      </a>
+    </td> 
 </tr>
 </table>
