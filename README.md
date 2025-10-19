@@ -667,5 +667,82 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
         </sub>
       </a>
     </td>
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/jowgaze" width="100px;" alt="Foto de Jonatha Carvalho"/><br>
+        <sub>
+          <b>Jonatha Carvalho</b>
+        </sub>
+      </a>
+    </td>
+</tr>
+<tr>
+</td>
+<td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Kaua-cel" width="100px;" alt="Foto de Neres-Dev"/><br>
+        <sub>
+          <b>Neres-Dev</b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/eddieJPNG" width="100px;" alt="Foto de Edson Rocha"/><br>
+        <sub>
+          <b>Edson Rocha</b>
+        </sub>
+      </a>
+    </td> 
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/luanacostav" width="100px;" alt="Foto de Luana Vasconcelos"/><br>
+        <sub>
+          <b>Luana Vasconcelos</b>
+        </sub>
+      </a>
+    </td> 
+<td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/jp3droribeiro" width="100px;" alt="Foto de João Pedro Dutra"/><br>
+        <sub>
+          <b>João Pedro Dutra</b>
+        </sub>
+      </a>
+    </td> 
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/barbosa-jp" width="100px;" alt="Foto de João Pedro Barbosa"/><br>
+        <sub>
+          <b>João Pedro Barbosa</b>
+        </sub>
+      </a>
+    </td> 
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/ASangelina" width="100px;" alt="Foto de Angelina"/><br>
+        <sub>
+          <b>Angelina</b>
+        </sub>
+      </a>
+    </td> 
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/RichelDare" width="100px;" alt="Foto de Raquel"/><br>
+        <sub>
+          <b>Raquel</b>
+        </sub>
+      </a>
+    </td> 
+</tr>
+<tr>
+  <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/Dione-b" width="100px;" alt="Foto de Dione Bastos"/><br>
+        <sub>
+          <b>Dione Bastos</b>
+        </sub>
+      </a>
+    </td>     
 </tr>
 </table>

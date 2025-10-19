@@ -83,3 +83,5 @@ Recursos:
 - [Curso de Python Criando um Projeto com Interface Gráfica (Fundação Bradesco)](https://www.ev.org.br/cursos/criando-um-projeto-com-interface-grafica-utilizando-a-linguagem-python)  (Dica de [Josué Klaysler](https://github.com/josuekla))
 
 - [Curso de Python Desenvolvendo um Projeto Completo com Estruturas de Dados (Fundação Bradesco)](https://www.ev.org.br/cursos/Desenvolvendo-um-Projeto-Completo-Python-com-Estruturas-de-Dados) (Dica de [Josué Klaysler](https://github.com/josuekla))
+
+- [Introdução ao Pandas no Python - [SAIA DO ZERO EM 1 AULA] (Hashtag Programação)](https://youtu.be/C0aj3FjN5e0?si=lLLbeczOpbVzMIah) 

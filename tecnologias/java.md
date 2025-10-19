@@ -71,3 +71,6 @@
 - [MicroServices Com Java Spring](https://www.youtube.com/playlist?list=PL8iIphQOyG-Dp037UnFG0x8aduelvZZWE) - Michelli Brito
 
 - [Microservices Patterns](https://www.youtube.com/playlist?list=PL8iIphQOyG-CnURJRh-IgZHKafiMgNaNU) - Michelli Brito
+
+- [Spring para Iniciantes (Fernanda Kipper)](https://youtu.be/YY_hf0FOIcU?si=grdcSSLYAdQ0wQmP) (Dica de
+  [Luana](https://github.com/luanacostav))
