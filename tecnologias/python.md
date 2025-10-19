@@ -73,3 +73,13 @@ Recursos:
 - [Curso de Programação em Python (Prime Cursos do Brasil)](https://www.youtube.com/playlist?list=PLFKhhNd35zq_INvuX9YzXIbtpo_LGDzYK)
 
 - [Curso de Desenvolvimento de Automações com Python e BotCity](https://developers.botcity.dev/academy/course/dev_desktop_web_pt) (Bruna Ferreira + Academy BotCity)
+
+- [Curso de Django Aprenda a Desenvolver Aplicações Web Do Zero (Jefferson Lobato)](https://www.youtube.com/playlist?list=PLLVddSbilcumgeyk0z6ko5U_FYPfbRO2C) (Dica de [Josué Klaysler](https://github.com/josuekla))
+
+- [Curso de Django: To-Do-List (Jefferson Lobato)](https://www.youtube.com/playlist?list=PLLVddSbilcunGg0IJ4zP05Z91yrEaIiQh) (Dica de [Josué Klaysler](https://github.com/josuekla))
+
+- [Curso de Django: Controle de Estoque (regis do python)](https://www.youtube.com/playlist?list=PLsGCdfxkV9uqj9DwI6Y72JyvXeA-9mAjc) (Dica de [Josué Klaysler](https://github.com/josuekla))
+
+- [Curso de Python Criando um Projeto com Interface Gráfica (Fundação Bradesco)](https://www.ev.org.br/cursos/criando-um-projeto-com-interface-grafica-utilizando-a-linguagem-python)  (Dica de [Josué Klaysler](https://github.com/josuekla))
+
+- [Curso de Python Desenvolvendo um Projeto Completo com Estruturas de Dados (Fundação Bradesco)](https://www.ev.org.br/cursos/Desenvolvendo-um-Projeto-Completo-Python-com-Estruturas-de-Dados) (Dica de [Josué Klaysler](https://github.com/josuekla))
