@@ -752,5 +752,13 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
         </sub>
       </a>
     </td> 
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/levxyca" width="100px;" alt="Foto de Leticia @levxyca"/><br>
+        <sub>
+          <b>Leticia @levxyca</b>
+        </sub>
+      </a>
+    </td> 
 </tr>
 </table>
