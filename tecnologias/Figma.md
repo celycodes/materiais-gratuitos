@@ -5,3 +5,5 @@
 - [Curso de Figma Gratuito](https://www.cursou.com.br/design/figma/) (Dica de [TiagoPS2](https://github.com/TiagoPS2))
 
 - [Curso de figma gratuito da udemy](https://www.udemy.com/course/curso-de-figma-em-portugues-gratis/?srsltid=AfmBOooYaQqGYB-0mm09OmVlM8deOsgr_2hrh39yX-0Edn1bIlUA1xn9&utm_source=chatgpt.com) (Dica da [Mariana](https://github.com/eumarianamota))
+
+- [Video aula de figma gratuito no YouTube](https://youtu.be/FMlHlI5U5ks?si=H7FIhTaDqVdAhxpR) (Dica de [Wilk Neves](https://github.com/wilkneves))
