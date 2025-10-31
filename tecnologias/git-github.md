@@ -17,3 +17,5 @@
 - [Git e Github (Wesley Willians - School of Net)](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/)
 
 - [GitHub como Portfólio? Aprenda a Personalizar seu Perfil! (Larissa Kich)](https://youtu.be/9ygf4hkLVnA?si=9pzl4H5v2XqJj38c) (Dica de [Luana](https://github.com/luanacostav))
+
+- [Introdução ao Git e GitHub (Téo Me Why)](https://youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL&si=1P9YB49pPqoeD4Np) (Dica de [Madalena](https://github.com/madalena-rocha))
