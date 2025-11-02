@@ -22,3 +22,5 @@
 - [SQLAlchemy Survivor Guide(Programador Lhama)](https://www.youtube.com/playlist?list=PLAgbpJQADBGKbwhOvd9DVWy-xhA1KEGm1) (Dica de [Fernanda](https://github.com/Fernanda-Dantas))
 
 - [Curso de SQL para Análise de Dados (Programação dinâmica)](https://www.youtube.com/watch?v=BRPUA0EgS4I&list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6)
+
+- [Aprenda SQL - Primeiras Magias na Linguagem (Téo Me Why)](https://youtube.com/playlist?list=PLvlkVRRKOYFRo651oD0JptVqfQGDvMi3j&si=iJpeL6ncgOvkxai0) (Dica de [Madalena](https://github.com/madalena-rocha))
