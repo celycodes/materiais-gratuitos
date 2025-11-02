@@ -767,6 +767,22 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
           <b>Wilk Neves</b>
         </sub>
       </a>
+    </td>
+<td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/caroldonadel" width="100px;" alt="Foto de Carolina Donadel"/><br>
+        <sub>
+          <b>Carolina Donadel</b>
+        </sub>
+      </a>
+    </td> 
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/madalena-rocha" width="100px;" alt="Foto de Madalena Rocha"/><br>
+        <sub>
+          <b>Madalena Rocha</b>
+        </sub>
+      </a>
     </td> 
 </tr>
 </table>
