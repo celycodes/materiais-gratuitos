@@ -15,3 +15,5 @@
 - [Programação em C# (Bóson Treinamentos)](https://www.youtube.com/watch?v=r2kEkCGrxZs&list=PLucm8g_ezqNoMPIGWbRJXemJKyoUpTjA1) (Dica de [luiz antonio](https://github.com/LuizAnt201))
 
 - [Orientação a Objetos com C# (Ralf Lima)](https://www.youtube.com/watch?v=wI6zLJJhnNw&list=PLWXw8Gu52TRKlAqSfkdhSTPtAfAcYko5E)  (Dica de [luiz antonio](https://github.com/LuizAnt201))
+
+- [Módulos de curso C# (Microsoft)](https://learn.microsoft.com/pt-br/training/browse/?resource_type=module&terms=C%23)  (Dica de [rbrollo](https://github.com/rbrollo))
