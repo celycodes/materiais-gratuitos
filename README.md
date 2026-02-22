@@ -776,11 +776,19 @@ Repositório com o objetivo de reunir alguns links de materiais para ajudar a ga
         </sub>
       </a>
     </td> 
-        <td align="center">
+<td align="center">
       <a href="#">
         <img src="https://avatars1.githubusercontent.com/madalena-rocha" width="100px;" alt="Foto de Madalena Rocha"/><br>
         <sub>
           <b>Madalena Rocha</b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/rbrollo" width="100px;" alt="Foto de Rogério Brollo"/><br>
+        <sub>
+          <b>Rogério Brollo</b>
         </sub>
       </a>
     </td> 
